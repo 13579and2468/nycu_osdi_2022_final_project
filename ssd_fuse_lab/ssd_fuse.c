@@ -245,7 +245,6 @@ static int garbage_collect()
             nand_read(buf, old_pca.pca);
             new_pca.pca = get_next_pca();
             nand_write(buf, new_pca.pca);
-            printf("GGG\n");
             L2P[P2L[old_pca.fields.nand * PAGE_PER_BLOCK + i]] = new_pca.pca;
             P2L[new_pca.fields.nand * PAGE_PER_BLOCK + i] = P2L[old_pca.fields.nand * PAGE_PER_BLOCK + i];
             P2L[old_pca.fields.nand * PAGE_PER_BLOCK + i] = INVALID_LBA;
@@ -275,12 +274,23 @@ static int ftl_write(const char* buf, size_t lba)
         garbage_collect();
 
     PCA_RULE new_pca;
+    PCA_RULE old_pca;
+    old_pca.pca = L2P[lba];
 
-    // if correspond pca is exists
-    if (L2P[lba] != INVALID_PCA)
+    // check if the curr filled block is the least valid block
+    if (curr_pca.fields.lba == 9 && valid_count[curr_pca.fields.nand] < least_valid_count)
     {
-        PCA_RULE old_pca;
-        old_pca.pca = L2P[lba];
+        least_valid_count = valid_count[curr_pca.fields.nand];
+        least_valid_count_nand = curr_pca.fields.nand;
+    }
+
+    new_pca.pca = get_next_pca();
+    L2P[lba] = new_pca.pca;
+    P2L[new_pca.fields.nand * PAGE_PER_BLOCK + new_pca.fields.lba] = lba;
+
+    // if correspond old_pca is exists -> let old pca been not use -> if going to empty block erase it
+    if (old_pca.pca != INVALID_PCA)
+    {
         valid_count[old_pca.fields.nand]--;
         P2L[old_pca.fields.nand * PAGE_PER_BLOCK + old_pca.fields.lba] = INVALID_LBA;
 
@@ -305,19 +315,8 @@ static int ftl_write(const char* buf, size_t lba)
                 }
             }
         }
-
     }
 
-    // check if the curr filled block is the least valid block
-    if (curr_pca.fields.lba == 9 && valid_count[curr_pca.fields.nand] < least_valid_count)
-    {
-        least_valid_count = valid_count[curr_pca.fields.nand];
-        least_valid_count_nand = curr_pca.fields.nand;
-    }
-
-    new_pca.pca = get_next_pca();
-    L2P[lba] = new_pca.pca;
-    P2L[new_pca.fields.nand * PAGE_PER_BLOCK + new_pca.fields.lba] = lba;
     return nand_write(buf, curr_pca.pca);
 }
 
