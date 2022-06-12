@@ -205,22 +205,27 @@ static int ftl_read( char* buf, size_t lba)
 {
     PCA_RULE my_pca;
     my_pca.pca = L2P[lba];
+    if(my_pca.pca == INVALID_PCA)
+    {
+        memset(buf, 0, 512);
+        return 512;
+    }
 
     return nand_read(buf, my_pca.pca);
 }
 
 // return 1 if need to gc, 0 if not to gc
-static int check_if_garbage_collect(size_t next_lba)
+static int check_if_garbage_collect(size_t lba)
 {
-    if(free_block_number != 0)
+    if (free_block_number != 0 || L2P[lba] == INVALID_PCA)
     {
         return 0;
     }
 
-    PCA_RULE next_pca;
-    next_pca.pca = L2P[next_lba];
+    PCA_RULE mypca;
+    mypca.pca = L2P[lba];
     // gc only when must to gc
-    if (least_valid_count == PAGE_PER_BLOCK - 1 - curr_pca.fields.lba && valid_count[next_pca.fields.nand] != least_valid_count)
+    if (least_valid_count == PAGE_PER_BLOCK - 1 - curr_pca.fields.lba && valid_count[mypca.fields.nand] != least_valid_count)
     {
         return 1;
     }
@@ -230,7 +235,6 @@ static int check_if_garbage_collect(size_t next_lba)
 
 static int garbage_collect()
 {
-    printf("GC\n");
     PCA_RULE old_pca;
     PCA_RULE new_pca;
 
@@ -246,7 +250,7 @@ static int garbage_collect()
             new_pca.pca = get_next_pca();
             nand_write(buf, new_pca.pca);
             L2P[P2L[old_pca.fields.nand * PAGE_PER_BLOCK + i]] = new_pca.pca;
-            P2L[new_pca.fields.nand * PAGE_PER_BLOCK + i] = P2L[old_pca.fields.nand * PAGE_PER_BLOCK + i];
+            P2L[new_pca.fields.nand * PAGE_PER_BLOCK + new_pca.fields.lba] = P2L[old_pca.fields.nand * PAGE_PER_BLOCK + i];
             P2L[old_pca.fields.nand * PAGE_PER_BLOCK + i] = INVALID_LBA;
         }
     }
@@ -271,7 +275,9 @@ static int ftl_write(const char* buf, size_t lba)
 {
     printf("lba : %ld\n", lba);
     if(check_if_garbage_collect(lba))
+    {
         garbage_collect();
+    }
 
     PCA_RULE new_pca;
     PCA_RULE old_pca;
@@ -287,6 +293,8 @@ static int ftl_write(const char* buf, size_t lba)
     new_pca.pca = get_next_pca();
     L2P[lba] = new_pca.pca;
     P2L[new_pca.fields.nand * PAGE_PER_BLOCK + new_pca.fields.lba] = lba;
+
+    int r = nand_write(buf, new_pca.pca);
 
     // if correspond old_pca is exists -> let old pca been not use -> if going to empty block erase it
     if (old_pca.pca != INVALID_PCA)
@@ -317,7 +325,7 @@ static int ftl_write(const char* buf, size_t lba)
         }
     }
 
-    return nand_write(buf, curr_pca.pca);
+    return r;
 }
 
 
@@ -424,6 +432,11 @@ static int ssd_do_write(const char* buf, size_t size, off_t offset)
     process_size = 0;
     remain_size = size;
     curr_size = 512 - offset % 512;
+
+    // for size < 512
+    if(remain_size < curr_size)
+        curr_size = remain_size;
+        
     for (idx = 0; idx < tmp_lba_range; idx++)
     {
         // read modify write
@@ -431,7 +444,10 @@ static int ssd_do_write(const char* buf, size_t size, off_t offset)
         if (L2P[tmp_lba + idx] != INVALID_PCA)
         {
             ftl_read(tmp_buf, tmp_lba + idx);
+            if (offset == 1033)
+                printf("block %d %s\n", tmp_lba + idx, tmp_buf);
         }
+
         if(idx == 0)
         {
             memcpy(tmp_buf + offset % 512, buf, curr_size);

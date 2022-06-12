@@ -3,7 +3,7 @@
 SSD_FILE="/tmp/ssd/ssd_file"
 GOLDEN="/tmp/ssd_file_golden"
 TEMP="/tmp/temp"
-#rm -rf ${GOLDEN}
+rm -rf ${GOLDEN} ${TEMP}
 touch ${GOLDEN}
 truncate -s 0 ${SSD_FILE}
 truncate -s 0 ${GOLDEN}
@@ -61,7 +61,19 @@ case "$1" in
     "test2") 
         cat /dev/urandom | tr -dc '[:alpha:][:digit:]' | head -c 11264 > ${TEMP}
         dd if=${TEMP} iflag=skip_bytes skip=123 of=${GOLDEN} oflag=seek_bytes seek=123 bs=1024 count=1 conv=notrunc 2> /dev/null
-        dd if=${TEMP} iflag=skip_bytes skip=123 of=${SSD_FILE} oflag=seek_bytes seek=123 bs=1024 count=1 conv=notrunc 2> /dev/null      
+        dd if=${TEMP} iflag=skip_bytes skip=123 of=${SSD_FILE} oflag=seek_bytes seek=123 bs=1024 count=1 conv=notrunc 2> /dev/null
+
+        dd if=${TEMP} iflag=skip_bytes skip=3000 of=${GOLDEN} oflag=seek_bytes seek=3000 bs=72 count=1 conv=notrunc 2> /dev/null
+        dd if=${TEMP} iflag=skip_bytes skip=3000 of=${SSD_FILE} oflag=seek_bytes seek=3000 bs=72 count=1 conv=notrunc 2> /dev/null   
+        
+        dd if=${TEMP} iflag=skip_bytes skip=777 of=${GOLDEN} oflag=seek_bytes seek=3100 bs=484 count=1 conv=notrunc 2> /dev/null
+        dd if=${TEMP} iflag=skip_bytes skip=777 of=${SSD_FILE} oflag=seek_bytes seek=3100 bs=484 count=1 conv=notrunc 2> /dev/null  
+
+        dd if=${TEMP} iflag=skip_bytes skip=30 of=${GOLDEN} oflag=seek_bytes seek=512 bs=1078 count=1 conv=notrunc 2> /dev/null
+        dd if=${TEMP} iflag=skip_bytes skip=30 of=${SSD_FILE} oflag=seek_bytes seek=512 bs=1078 count=1 conv=notrunc 2> /dev/null
+
+        dd if=${TEMP} iflag=skip_bytes skip=98 of=${GOLDEN} oflag=seek_bytes seek=1033 bs=1 count=494 conv=notrunc 2> /dev/null
+        dd if=${TEMP} iflag=skip_bytes skip=98 of=${SSD_FILE} oflag=seek_bytes seek=1033 bs=1 count=494 conv=notrunc 2> /dev/null
         ;;
 
     ## for GC valid_count[0,1] = 0
@@ -105,4 +117,4 @@ fi
 
 echo "WA:"
 ./ssd_fuse_dut /tmp/ssd/ssd_file W
-rm -rf ${TEMP} ${GOLDEN}
+#rm -rf ${TEMP}
