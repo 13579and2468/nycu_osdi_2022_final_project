@@ -444,8 +444,6 @@ static int ssd_do_write(const char* buf, size_t size, off_t offset)
         if (L2P[tmp_lba + idx] != INVALID_PCA)
         {
             ftl_read(tmp_buf, tmp_lba + idx);
-            if (offset == 1033)
-                printf("block %d %s\n", tmp_lba + idx, tmp_buf);
         }
 
         if(idx == 0)
