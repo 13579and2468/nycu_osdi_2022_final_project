@@ -5,7 +5,7 @@ This is a simple_ssd r/w simulator
 
 ### 1) code
 
-https://github.com/13579and2468/osc2022
+https://github.com/13579and2468/nycu_osdi_2022_final_project
 
 ### 2) Implementation details
 
@@ -82,3 +82,20 @@ logical address 存lba (page idx)
 
 原來的 test1, test2 皆沒有GC
 
+我另外加了3個testcase, 分別是兩個測試GC, 一個測試unalign write
+
+![](https://i.imgur.com/2ElaPCq.png)
+
+### 5) FUSE 簡介 (wiki)
+
+目的 :
+
+Filesystem in USErspace (FUSE) is a software interface for Unix and Unix-like computer operating systems that lets non-privileged users create their own file systems without editing kernel code.
+
+原理 :
+
+This is achieved by running file system code in user space while the FUSE module provides only a bridge to the actual kernel interfaces.
+
+實做方式 : 
+
+To implement a new file system, a handler program linked to the supplied libfuse library needs to be written. The main purpose of this program is to specify how the file system is to respond to read/write/stat requests. The program is also used to mount the new file system. At the time the file system is mounted, the handler is registered with the kernel. If a user now issues read/write/stat requests for this newly mounted file system, the kernel forwards these IO-requests to the handler and then sends the handler's response back to the user.
