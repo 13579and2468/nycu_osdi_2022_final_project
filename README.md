@@ -1,5 +1,6 @@
 # nycu_osdi_2022_final_project
 
+This is a simple_ssd r/w simulator
 ## Report
 
 ### 1) code
@@ -42,7 +43,7 @@ https://github.com/13579and2468/osc2022
 沒有另外存這個state，因為可以藉由以下方式判斷 (順序比對)
 
 ▪ valid  -> check by P2L != INVALID_LBA
-▪ empty  -> check by block is free || curr_pca.fields.lba < the pca
+▪ empty  -> check by block is free || ( curr_pca.fields.lba < the_pca.fields.lba && curr_pca.fields.nand == the_pca.fields.nand )
 ▪ stale: data is useless but not erase yet -> 剩下的情況
 
 ### manage L2P table
@@ -76,3 +77,8 @@ logical address 存lba (page idx)
 8. 增加變數 least_valid_count, least_valid_count_nand
 9. nand_erase 加一行 free_block_number++;
 10. NAND_LOCATION
+
+### 4) evaluation
+
+原來的 test1, test2 皆沒有GC
+

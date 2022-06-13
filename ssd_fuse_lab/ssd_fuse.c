@@ -47,9 +47,11 @@ unsigned int* L2P,* P2L,* valid_count, free_block_number;
 
 // PCA state
 /*
-            ▪ valid  -> check by P2L != INVALID_LBA
-            ▪ stale: data is useless but not erase yet -> check by P2L == INVALID_LBA
-            ▪ empty  -> check by block is free || curr_pca.fields.lba < the pca
+沒有另外存這個state，因為可以藉由以下方式判斷(順序比對)
+
+▪ valid  ->check by P2L != INVALID_LBA
+▪ empty->check by block is free || (curr_pca.fields.lba < the_pca.fields.lba && curr_pca.fields.nand == the_pca.fields.nand)
+▪ stale : data is useless but not erase yet->剩下的情況
 */
 
 // use for garbage collect

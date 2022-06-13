@@ -63,8 +63,8 @@ case "$1" in
         dd if=${TEMP} iflag=skip_bytes skip=123 of=${GOLDEN} oflag=seek_bytes seek=123 bs=1024 count=1 conv=notrunc 2> /dev/null
         dd if=${TEMP} iflag=skip_bytes skip=123 of=${SSD_FILE} oflag=seek_bytes seek=123 bs=1024 count=1 conv=notrunc 2> /dev/null
 
-        dd if=${TEMP} iflag=skip_bytes skip=3000 of=${GOLDEN} oflag=seek_bytes seek=3000 bs=72 count=1 conv=notrunc 2> /dev/null
-        dd if=${TEMP} iflag=skip_bytes skip=3000 of=${SSD_FILE} oflag=seek_bytes seek=3000 bs=72 count=1 conv=notrunc 2> /dev/null   
+        dd if=${TEMP} iflag=skip_bytes skip=3000 of=${GOLDEN} oflag=seek_bytes seek=3000 bs=72 count=20 conv=notrunc 2> /dev/null
+        dd if=${TEMP} iflag=skip_bytes skip=3000 of=${SSD_FILE} oflag=seek_bytes seek=3000 bs=72 count=20 conv=notrunc 2> /dev/null   
         
         dd if=${TEMP} iflag=skip_bytes skip=777 of=${GOLDEN} oflag=seek_bytes seek=3100 bs=484 count=1 conv=notrunc 2> /dev/null
         dd if=${TEMP} iflag=skip_bytes skip=777 of=${SSD_FILE} oflag=seek_bytes seek=3100 bs=484 count=1 conv=notrunc 2> /dev/null  
@@ -74,6 +74,9 @@ case "$1" in
 
         dd if=${TEMP} iflag=skip_bytes skip=98 of=${GOLDEN} oflag=seek_bytes seek=1033 bs=1 count=499 conv=notrunc 2> /dev/null
         dd if=${TEMP} iflag=skip_bytes skip=98 of=${SSD_FILE} oflag=seek_bytes seek=1033 bs=1 count=499 conv=notrunc 2> /dev/null
+        
+        dd if=${TEMP} iflag=skip_bytes skip=999 of=${GOLDEN} oflag=seek_bytes seek=2987 bs=3 count=222 conv=notrunc 2> /dev/null
+        dd if=${TEMP} iflag=skip_bytes skip=999 of=${SSD_FILE} oflag=seek_bytes seek=2987 bs=3 count=222 conv=notrunc 2> /dev/null
         ;;
 
     ## for GC valid_count[0,1] = 0
