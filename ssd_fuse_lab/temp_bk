@@ -1,0 +1,6330 @@
+lba : 63
+write least c : 0 11
+write gc start 0 1
+write gc start 1 -1
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 64
+write least c : 0 11
+write gc start 0 2
+write gc start 1 -1
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 39
+write least c : 0 11
+write gc start 0 3
+write gc start 1 -1
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 40
+write least c : 0 11
+write gc start 0 4
+write gc start 1 -1
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 41
+write least c : 0 11
+write gc start 0 5
+write gc start 1 -1
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 50
+write least c : 0 11
+write gc start 0 6
+write gc start 1 -1
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 49
+write least c : 0 11
+write gc start 0 7
+write gc start 1 -1
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 26
+write least c : 0 11
+write gc start 0 8
+write gc start 1 -1
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 27
+write least c : 0 11
+write gc start 0 9
+write gc start 1 -1
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 81
+write least c : 0 10
+write gc start 0 10
+write gc start 1 -1
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 82
+write least c : 0 10
+write gc start 0 10
+write gc start 1 1
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 35
+write least c : 0 10
+write gc start 0 10
+write gc start 1 2
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 36
+write least c : 0 10
+write gc start 0 10
+write gc start 1 3
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 37
+write least c : 0 10
+write gc start 0 10
+write gc start 1 4
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 59
+write least c : 0 10
+write gc start 0 10
+write gc start 1 5
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 92
+write least c : 0 10
+write gc start 0 10
+write gc start 1 6
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 93
+write least c : 0 10
+write gc start 0 10
+write gc start 1 7
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 15
+write least c : 0 10
+write gc start 0 10
+write gc start 1 8
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 16
+write least c : 0 10
+write gc start 0 10
+write gc start 1 9
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 17
+write least c : 0 10
+write gc start 0 10
+write gc start 1 10
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 22
+write least c : 0 10
+write gc start 0 10
+write gc start 1 10
+write gc start 2 1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 23
+write least c : 0 10
+write gc start 0 10
+write gc start 1 10
+write gc start 2 2
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 35
+write least c : 1 9
+write gc start 0 10
+write gc start 1 9
+write gc start 2 3
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 18
+write least c : 1 9
+write gc start 0 10
+write gc start 1 9
+write gc start 2 4
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 62
+write least c : 1 9
+write gc start 0 10
+write gc start 1 9
+write gc start 2 5
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 39
+write least c : 1 9
+write gc start 0 9
+write gc start 1 9
+write gc start 2 6
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 38
+write least c : 1 9
+write gc start 0 9
+write gc start 1 9
+write gc start 2 7
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 39
+write least c : 1 9
+write gc start 0 9
+write gc start 1 9
+write gc start 2 7
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 33
+write least c : 1 9
+write gc start 0 9
+write gc start 1 9
+write gc start 2 8
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 34
+write least c : 1 9
+write gc start 0 9
+write gc start 1 9
+write gc start 2 9
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 78
+write least c : 1 9
+write gc start 0 9
+write gc start 1 9
+write gc start 2 9
+write gc start 3 1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 36
+write least c : 1 8
+write gc start 0 9
+write gc start 1 8
+write gc start 2 9
+write gc start 3 2
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 37
+write least c : 1 7
+write gc start 0 9
+write gc start 1 7
+write gc start 2 9
+write gc start 3 3
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 62
+write least c : 1 7
+write gc start 0 9
+write gc start 1 7
+write gc start 2 8
+write gc start 3 4
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 63
+write least c : 1 7
+write gc start 0 8
+write gc start 1 7
+write gc start 2 8
+write gc start 3 5
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 14
+write least c : 1 7
+write gc start 0 8
+write gc start 1 7
+write gc start 2 8
+write gc start 3 6
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 15
+write least c : 1 6
+write gc start 0 8
+write gc start 1 6
+write gc start 2 8
+write gc start 3 7
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 16
+write least c : 1 5
+write gc start 0 8
+write gc start 1 5
+write gc start 2 8
+write gc start 3 8
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 53
+write least c : 1 5
+write gc start 0 8
+write gc start 1 5
+write gc start 2 8
+write gc start 3 9
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 54
+write least c : 1 5
+write gc start 0 8
+write gc start 1 5
+write gc start 2 8
+write gc start 3 10
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 36
+write least c : 1 5
+write gc start 0 8
+write gc start 1 5
+write gc start 2 8
+write gc start 3 9
+write gc start 4 1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 0
+write least c : 1 5
+write gc start 0 8
+write gc start 1 5
+write gc start 2 8
+write gc start 3 9
+write gc start 4 2
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 1
+write least c : 1 5
+write gc start 0 8
+write gc start 1 5
+write gc start 2 8
+write gc start 3 9
+write gc start 4 3
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 22
+write least c : 1 5
+write gc start 0 8
+write gc start 1 5
+write gc start 2 7
+write gc start 3 9
+write gc start 4 4
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 23
+write least c : 1 5
+write gc start 0 8
+write gc start 1 5
+write gc start 2 6
+write gc start 3 9
+write gc start 4 5
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 24
+write least c : 1 5
+write gc start 0 8
+write gc start 1 5
+write gc start 2 6
+write gc start 3 9
+write gc start 4 6
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 17
+write least c : 1 4
+write gc start 0 8
+write gc start 1 4
+write gc start 2 6
+write gc start 3 9
+write gc start 4 7
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 18
+write least c : 1 4
+write gc start 0 8
+write gc start 1 4
+write gc start 2 5
+write gc start 3 9
+write gc start 4 8
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 86
+write least c : 1 4
+write gc start 0 8
+write gc start 1 4
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 24
+write least c : 1 4
+write gc start 0 8
+write gc start 1 4
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 25
+write least c : 1 4
+write gc start 0 8
+write gc start 1 4
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 2
+write least c : 1 4
+write gc start 0 8
+write gc start 1 4
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 2
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 3
+write least c : 1 4
+write gc start 0 8
+write gc start 1 4
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 3
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 64
+write least c : 1 4
+write gc start 0 7
+write gc start 1 4
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 4
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 65
+write least c : 1 4
+write gc start 0 7
+write gc start 1 4
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 5
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 66
+write least c : 1 4
+write gc start 0 7
+write gc start 1 4
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 6
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 81
+write least c : 1 4
+write gc start 0 6
+write gc start 1 4
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 7
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 82
+write least c : 1 3
+write gc start 0 6
+write gc start 1 3
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 8
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 95
+write least c : 1 3
+write gc start 0 6
+write gc start 1 3
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 9
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 70
+write least c : 1 3
+write gc start 0 6
+write gc start 1 3
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 10
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 71
+write least c : 1 3
+write gc start 0 6
+write gc start 1 3
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 10
+write gc start 6 1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 27
+write least c : 1 3
+write gc start 0 5
+write gc start 1 3
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 10
+write gc start 6 2
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 28
+write least c : 1 3
+write gc start 0 5
+write gc start 1 3
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 10
+write gc start 6 3
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 29
+write least c : 1 3
+write gc start 0 5
+write gc start 1 3
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 10
+write gc start 6 4
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 66
+write least c : 1 3
+write gc start 0 5
+write gc start 1 3
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 9
+write gc start 6 5
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 6
+write least c : 1 3
+write gc start 0 5
+write gc start 1 3
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 9
+write gc start 6 6
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 7
+write least c : 1 3
+write gc start 0 5
+write gc start 1 3
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 9
+write gc start 6 7
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 60
+write least c : 1 3
+write gc start 0 5
+write gc start 1 3
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 9
+write gc start 6 8
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 61
+write least c : 1 3
+write gc start 0 5
+write gc start 1 3
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 9
+write gc start 6 9
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 30
+write least c : 1 3
+write gc start 0 5
+write gc start 1 3
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 9
+write gc start 6 10
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 31
+write least c : 1 3
+write gc start 0 5
+write gc start 1 3
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 9
+write gc start 6 10
+write gc start 7 1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 32
+write least c : 1 3
+write gc start 0 5
+write gc start 1 3
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 9
+write gc start 6 10
+write gc start 7 2
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 49
+write least c : 1 3
+write gc start 0 4
+write gc start 1 3
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 9
+write gc start 6 10
+write gc start 7 3
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 50
+write least c : 1 3
+write gc start 0 3
+write gc start 1 3
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 9
+write gc start 6 10
+write gc start 7 4
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 19
+write least c : 1 3
+write gc start 0 3
+write gc start 1 3
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 9
+write gc start 6 10
+write gc start 7 5
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 20
+write least c : 1 3
+write gc start 0 3
+write gc start 1 3
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 9
+write gc start 6 10
+write gc start 7 6
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 95
+write least c : 1 3
+write gc start 0 3
+write gc start 1 3
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 8
+write gc start 6 10
+write gc start 7 7
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 96
+write least c : 1 3
+write gc start 0 3
+write gc start 1 3
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 8
+write gc start 6 10
+write gc start 7 8
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 26
+write least c : 0 2
+write gc start 0 2
+write gc start 1 3
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 8
+write gc start 6 10
+write gc start 7 9
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 27
+write least c : 0 2
+write gc start 0 2
+write gc start 1 3
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 8
+write gc start 6 9
+write gc start 7 10
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 76
+write least c : 0 2
+write gc start 0 2
+write gc start 1 3
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 8
+write gc start 6 9
+write gc start 7 10
+write gc start 8 1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 77
+write least c : 0 2
+write gc start 0 2
+write gc start 1 3
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 8
+write gc start 6 9
+write gc start 7 10
+write gc start 8 2
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 41
+write least c : 0 1
+write gc start 0 1
+write gc start 1 3
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 8
+write gc start 6 9
+write gc start 7 10
+write gc start 8 3
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 42
+write least c : 0 1
+write gc start 0 1
+write gc start 1 3
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 8
+write gc start 6 9
+write gc start 7 10
+write gc start 8 4
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 28
+write least c : 0 1
+write gc start 0 1
+write gc start 1 3
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 8
+write gc start 6 8
+write gc start 7 10
+write gc start 8 5
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 82
+write least c : 0 1
+write gc start 0 1
+write gc start 1 3
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 7
+write gc start 6 8
+write gc start 7 10
+write gc start 8 6
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 83
+write least c : 0 1
+write gc start 0 1
+write gc start 1 3
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 7
+write gc start 6 8
+write gc start 7 10
+write gc start 8 7
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 21
+write least c : 0 1
+write gc start 0 1
+write gc start 1 3
+write gc start 2 5
+write gc start 3 9
+write gc start 4 9
+write gc start 5 7
+write gc start 6 8
+write gc start 7 10
+write gc start 8 8
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 38
+write least c : 0 1
+write gc start 0 1
+write gc start 1 3
+write gc start 2 4
+write gc start 3 9
+write gc start 4 9
+write gc start 5 7
+write gc start 6 8
+write gc start 7 10
+write gc start 8 9
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 94
+write least c : 0 1
+write gc start 0 1
+write gc start 1 3
+write gc start 2 4
+write gc start 3 9
+write gc start 4 9
+write gc start 5 7
+write gc start 6 8
+write gc start 7 10
+write gc start 8 10
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 1
+write least c : 0 1
+write gc start 0 1
+write gc start 1 3
+write gc start 2 4
+write gc start 3 9
+write gc start 4 8
+write gc start 5 7
+write gc start 6 8
+write gc start 7 10
+write gc start 8 10
+write gc start 9 1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 2
+write least c : 0 1
+write gc start 0 1
+write gc start 1 3
+write gc start 2 4
+write gc start 3 9
+write gc start 4 8
+write gc start 5 6
+write gc start 6 8
+write gc start 7 10
+write gc start 8 10
+write gc start 9 2
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 89
+write least c : 0 1
+write gc start 0 1
+write gc start 1 3
+write gc start 2 4
+write gc start 3 9
+write gc start 4 8
+write gc start 5 6
+write gc start 6 8
+write gc start 7 10
+write gc start 8 10
+write gc start 9 3
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 90
+write least c : 0 1
+write gc start 0 1
+write gc start 1 3
+write gc start 2 4
+write gc start 3 9
+write gc start 4 8
+write gc start 5 6
+write gc start 6 8
+write gc start 7 10
+write gc start 8 10
+write gc start 9 4
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 91
+write least c : 0 1
+write gc start 0 1
+write gc start 1 3
+write gc start 2 4
+write gc start 3 9
+write gc start 4 8
+write gc start 5 6
+write gc start 6 8
+write gc start 7 10
+write gc start 8 10
+write gc start 9 5
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 89
+write least c : 0 1
+write gc start 0 1
+write gc start 1 3
+write gc start 2 4
+write gc start 3 9
+write gc start 4 8
+write gc start 5 6
+write gc start 6 8
+write gc start 7 10
+write gc start 8 10
+write gc start 9 5
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 90
+write least c : 0 1
+write gc start 0 1
+write gc start 1 3
+write gc start 2 4
+write gc start 3 9
+write gc start 4 8
+write gc start 5 6
+write gc start 6 8
+write gc start 7 10
+write gc start 8 10
+write gc start 9 5
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 18
+write least c : 0 1
+write gc start 0 1
+write gc start 1 3
+write gc start 2 4
+write gc start 3 9
+write gc start 4 7
+write gc start 5 6
+write gc start 6 8
+write gc start 7 10
+write gc start 8 10
+write gc start 9 6
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 19
+write least c : 0 1
+write gc start 0 1
+write gc start 1 3
+write gc start 2 4
+write gc start 3 9
+write gc start 4 7
+write gc start 5 6
+write gc start 6 8
+write gc start 7 9
+write gc start 8 10
+write gc start 9 7
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 20
+write least c : 0 1
+write gc start 0 1
+write gc start 1 3
+write gc start 2 4
+write gc start 3 9
+write gc start 4 7
+write gc start 5 6
+write gc start 6 8
+write gc start 7 8
+write gc start 8 10
+write gc start 9 8
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 88
+write least c : 0 1
+write gc start 0 1
+write gc start 1 3
+write gc start 2 4
+write gc start 3 9
+write gc start 4 7
+write gc start 5 6
+write gc start 6 8
+write gc start 7 8
+write gc start 8 10
+write gc start 9 8
+write gc start 10 1
+write gc start 11 -1
+write gc start 12 -1
+lba : 89
+write least c : 0 1
+write gc start 0 1
+write gc start 1 3
+write gc start 2 4
+write gc start 3 9
+write gc start 4 7
+write gc start 5 6
+write gc start 6 8
+write gc start 7 8
+write gc start 8 10
+write gc start 9 7
+write gc start 10 2
+write gc start 11 -1
+write gc start 12 -1
+lba : 29
+write least c : 0 1
+write gc start 0 1
+write gc start 1 3
+write gc start 2 4
+write gc start 3 9
+write gc start 4 7
+write gc start 5 6
+write gc start 6 7
+write gc start 7 8
+write gc start 8 10
+write gc start 9 7
+write gc start 10 3
+write gc start 11 -1
+write gc start 12 -1
+lba : 30
+write least c : 0 1
+write gc start 0 1
+write gc start 1 3
+write gc start 2 4
+write gc start 3 9
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 8
+write gc start 8 10
+write gc start 9 7
+write gc start 10 4
+write gc start 11 -1
+write gc start 12 -1
+lba : 31
+write least c : 0 1
+write gc start 0 1
+write gc start 1 3
+write gc start 2 4
+write gc start 3 9
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 7
+write gc start 8 10
+write gc start 9 7
+write gc start 10 5
+write gc start 11 -1
+write gc start 12 -1
+lba : 19
+write least c : 0 1
+write gc start 0 1
+write gc start 1 3
+write gc start 2 4
+write gc start 3 9
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 7
+write gc start 8 10
+write gc start 9 6
+write gc start 10 6
+write gc start 11 -1
+write gc start 12 -1
+lba : 38
+write least c : 0 1
+write gc start 0 1
+write gc start 1 3
+write gc start 2 4
+write gc start 3 9
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 7
+write gc start 8 9
+write gc start 9 6
+write gc start 10 7
+write gc start 11 -1
+write gc start 12 -1
+lba : 39
+write least c : 0 1
+write gc start 0 1
+write gc start 1 3
+write gc start 2 3
+write gc start 3 9
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 7
+write gc start 8 9
+write gc start 9 6
+write gc start 10 8
+write gc start 11 -1
+write gc start 12 -1
+lba : 40
+write least c : 1 3
+write gc start 0 -1
+write gc start 1 3
+write gc start 2 3
+write gc start 3 9
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 7
+write gc start 8 9
+write gc start 9 6
+write gc start 10 9
+write gc start 11 -1
+write gc start 12 -1
+lba : 57
+write least c : 1 3
+write gc start 0 -1
+write gc start 1 3
+write gc start 2 3
+write gc start 3 9
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 7
+write gc start 8 9
+write gc start 9 6
+write gc start 10 10
+write gc start 11 -1
+write gc start 12 -1
+lba : 58
+write least c : 1 3
+write gc start 0 -1
+write gc start 1 3
+write gc start 2 3
+write gc start 3 9
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 7
+write gc start 8 9
+write gc start 9 6
+write gc start 10 10
+write gc start 11 1
+write gc start 12 -1
+lba : 50
+write least c : 1 3
+write gc start 0 -1
+write gc start 1 3
+write gc start 2 3
+write gc start 3 9
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 6
+write gc start 8 9
+write gc start 9 6
+write gc start 10 10
+write gc start 11 2
+write gc start 12 -1
+lba : 51
+write least c : 1 3
+write gc start 0 -1
+write gc start 1 3
+write gc start 2 3
+write gc start 3 9
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 6
+write gc start 8 9
+write gc start 9 6
+write gc start 10 10
+write gc start 11 3
+write gc start 12 -1
+lba : 52
+write least c : 1 3
+write gc start 0 -1
+write gc start 1 3
+write gc start 2 3
+write gc start 3 9
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 6
+write gc start 8 9
+write gc start 9 6
+write gc start 10 10
+write gc start 11 4
+write gc start 12 -1
+lba : 46
+write least c : 1 3
+write gc start 0 -1
+write gc start 1 3
+write gc start 2 3
+write gc start 3 9
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 6
+write gc start 8 9
+write gc start 9 6
+write gc start 10 10
+write gc start 11 5
+write gc start 12 -1
+lba : 47
+write least c : 1 3
+write gc start 0 -1
+write gc start 1 3
+write gc start 2 3
+write gc start 3 9
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 6
+write gc start 8 9
+write gc start 9 6
+write gc start 10 10
+write gc start 11 6
+write gc start 12 -1
+lba : 95
+write least c : 1 3
+write gc start 0 -1
+write gc start 1 3
+write gc start 2 3
+write gc start 3 9
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 5
+write gc start 8 9
+write gc start 9 6
+write gc start 10 10
+write gc start 11 7
+write gc start 12 -1
+lba : 96
+write least c : 1 3
+write gc start 0 -1
+write gc start 1 3
+write gc start 2 3
+write gc start 3 9
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 4
+write gc start 8 9
+write gc start 9 6
+write gc start 10 10
+write gc start 11 8
+write gc start 12 -1
+lba : 74
+write least c : 1 3
+write gc start 0 -1
+write gc start 1 3
+write gc start 2 3
+write gc start 3 9
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 4
+write gc start 8 9
+write gc start 9 6
+write gc start 10 10
+write gc start 11 9
+write gc start 12 -1
+lba : 75
+write least c : 1 3
+write gc start 0 -1
+write gc start 1 3
+write gc start 2 3
+write gc start 3 9
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 4
+write gc start 8 9
+write gc start 9 6
+write gc start 10 10
+write gc start 11 10
+write gc start 12 -1
+lba : 79
+write least c : 1 3
+write gc start 0 -1
+write gc start 1 3
+write gc start 2 3
+write gc start 3 9
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 4
+write gc start 8 9
+write gc start 9 6
+write gc start 10 10
+write gc start 11 10
+write gc start 12 1
+lba : 15
+write least c : 1 3
+write gc start 0 -1
+write gc start 1 3
+write gc start 2 3
+write gc start 3 8
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 4
+write gc start 8 9
+write gc start 9 6
+write gc start 10 10
+write gc start 11 10
+write gc start 12 2
+lba : 16
+write least c : 1 3
+write gc start 0 -1
+write gc start 1 3
+write gc start 2 3
+write gc start 3 7
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 4
+write gc start 8 9
+write gc start 9 6
+write gc start 10 10
+write gc start 11 10
+write gc start 12 3
+lba : 76
+write least c : 1 3
+write gc start 0 -1
+write gc start 1 3
+write gc start 2 3
+write gc start 3 7
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 4
+write gc start 8 8
+write gc start 9 6
+write gc start 10 10
+write gc start 11 10
+write gc start 12 4
+lba : 92
+write least c : 1 2
+write gc start 0 -1
+write gc start 1 2
+write gc start 2 3
+write gc start 3 7
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 4
+write gc start 8 8
+write gc start 9 6
+write gc start 10 10
+write gc start 11 10
+write gc start 12 5
+lba : 93
+write least c : 1 1
+write gc start 0 -1
+write gc start 1 1
+write gc start 2 3
+write gc start 3 7
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 4
+write gc start 8 8
+write gc start 9 6
+write gc start 10 10
+write gc start 11 10
+write gc start 12 6
+lba : 48
+write least c : 1 1
+write gc start 0 -1
+write gc start 1 1
+write gc start 2 3
+write gc start 3 7
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 4
+write gc start 8 8
+write gc start 9 6
+write gc start 10 10
+write gc start 11 10
+write gc start 12 7
+lba : 49
+write least c : 1 1
+write gc start 0 -1
+write gc start 1 1
+write gc start 2 3
+write gc start 3 7
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 3
+write gc start 8 8
+write gc start 9 6
+write gc start 10 10
+write gc start 11 10
+write gc start 12 8
+lba : 79
+write least c : 1 1
+write gc start 0 -1
+write gc start 1 1
+write gc start 2 3
+write gc start 3 7
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 3
+write gc start 8 8
+write gc start 9 6
+write gc start 10 10
+write gc start 11 10
+write gc start 12 8
+lba : 80
+write least c : 1 1
+write gc start 0 -1
+write gc start 1 1
+write gc start 2 3
+write gc start 3 7
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 3
+write gc start 8 8
+write gc start 9 6
+write gc start 10 10
+write gc start 11 10
+write gc start 12 9
+lba : 89
+write least c : 1 1
+write gc start 0 1
+write gc start 1 1
+write gc start 2 3
+write gc start 3 7
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 3
+write gc start 8 8
+write gc start 9 6
+write gc start 10 9
+write gc start 11 10
+write gc start 12 9
+lba : 87
+write least c : 1 1
+write gc start 0 2
+write gc start 1 1
+write gc start 2 3
+write gc start 3 7
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 3
+write gc start 8 8
+write gc start 9 6
+write gc start 10 9
+write gc start 11 10
+write gc start 12 9
+lba : 88
+write least c : 1 1
+write gc start 0 3
+write gc start 1 1
+write gc start 2 3
+write gc start 3 7
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 3
+write gc start 8 8
+write gc start 9 6
+write gc start 10 8
+write gc start 11 10
+write gc start 12 9
+lba : 58
+write least c : 1 1
+write gc start 0 4
+write gc start 1 1
+write gc start 2 3
+write gc start 3 7
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 3
+write gc start 8 8
+write gc start 9 6
+write gc start 10 8
+write gc start 11 9
+write gc start 12 9
+lba : 59
+write least c : 2 3
+write gc start 0 5
+write gc start 1 -1
+write gc start 2 3
+write gc start 3 7
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 3
+write gc start 8 8
+write gc start 9 6
+write gc start 10 8
+write gc start 11 9
+write gc start 12 9
+lba : 59
+write least c : 2 3
+write gc start 0 5
+write gc start 1 -1
+write gc start 2 3
+write gc start 3 7
+write gc start 4 7
+write gc start 5 6
+write gc start 6 6
+write gc start 7 3
+write gc start 8 8
+write gc start 9 6
+write gc start 10 8
+write gc start 11 9
+write gc start 12 9
+lba : 60
+write least c : 2 3
+write gc start 0 6
+write gc start 1 -1
+write gc start 2 3
+write gc start 3 7
+write gc start 4 7
+write gc start 5 6
+write gc start 6 5
+write gc start 7 3
+write gc start 8 8
+write gc start 9 6
+write gc start 10 8
+write gc start 11 9
+write gc start 12 9
+lba : 61
+write least c : 2 3
+write gc start 0 7
+write gc start 1 -1
+write gc start 2 3
+write gc start 3 7
+write gc start 4 7
+write gc start 5 6
+write gc start 6 4
+write gc start 7 3
+write gc start 8 8
+write gc start 9 6
+write gc start 10 8
+write gc start 11 9
+write gc start 12 9
+lba : 51
+write least c : 2 3
+write gc start 0 8
+write gc start 1 -1
+write gc start 2 3
+write gc start 3 7
+write gc start 4 7
+write gc start 5 6
+write gc start 6 4
+write gc start 7 3
+write gc start 8 8
+write gc start 9 6
+write gc start 10 8
+write gc start 11 8
+write gc start 12 9
+lba : 52
+write least c : 2 3
+write gc start 0 9
+write gc start 1 -1
+write gc start 2 3
+write gc start 3 7
+write gc start 4 7
+write gc start 5 6
+write gc start 6 4
+write gc start 7 3
+write gc start 8 8
+write gc start 9 6
+write gc start 10 8
+write gc start 11 7
+write gc start 12 9
+lba : 53
+write least c : 2 3
+write gc start 0 9
+write gc start 1 1
+write gc start 2 3
+write gc start 3 6
+write gc start 4 7
+write gc start 5 6
+write gc start 6 4
+write gc start 7 3
+write gc start 8 8
+write gc start 9 6
+write gc start 10 8
+write gc start 11 7
+write gc start 12 9
+lba : 4
+write least c : 2 3
+write gc start 0 9
+write gc start 1 2
+write gc start 2 3
+write gc start 3 6
+write gc start 4 7
+write gc start 5 6
+write gc start 6 4
+write gc start 7 3
+write gc start 8 8
+write gc start 9 6
+write gc start 10 8
+write gc start 11 7
+write gc start 12 9
+lba : 5
+write least c : 2 3
+write gc start 0 9
+write gc start 1 3
+write gc start 2 3
+write gc start 3 6
+write gc start 4 7
+write gc start 5 6
+write gc start 6 4
+write gc start 7 3
+write gc start 8 8
+write gc start 9 6
+write gc start 10 8
+write gc start 11 7
+write gc start 12 9
+lba : 48
+write least c : 2 3
+write gc start 0 9
+write gc start 1 4
+write gc start 2 3
+write gc start 3 6
+write gc start 4 7
+write gc start 5 6
+write gc start 6 4
+write gc start 7 3
+write gc start 8 8
+write gc start 9 6
+write gc start 10 8
+write gc start 11 7
+write gc start 12 8
+lba : 59
+write least c : 2 3
+write gc start 0 8
+write gc start 1 5
+write gc start 2 3
+write gc start 3 6
+write gc start 4 7
+write gc start 5 6
+write gc start 6 4
+write gc start 7 3
+write gc start 8 8
+write gc start 9 6
+write gc start 10 8
+write gc start 11 7
+write gc start 12 8
+lba : 60
+write least c : 2 3
+write gc start 0 7
+write gc start 1 6
+write gc start 2 3
+write gc start 3 6
+write gc start 4 7
+write gc start 5 6
+write gc start 6 4
+write gc start 7 3
+write gc start 8 8
+write gc start 9 6
+write gc start 10 8
+write gc start 11 7
+write gc start 12 8
+lba : 61
+write least c : 2 3
+write gc start 0 6
+write gc start 1 7
+write gc start 2 3
+write gc start 3 6
+write gc start 4 7
+write gc start 5 6
+write gc start 6 4
+write gc start 7 3
+write gc start 8 8
+write gc start 9 6
+write gc start 10 8
+write gc start 11 7
+write gc start 12 8
+lba : 67
+least c : 2 3
+gc start 0 6
+gc start 1 7
+gc start 2 3
+gc start 3 6
+gc start 4 7
+gc start 5 6
+gc start 6 4
+gc start 7 3
+gc start 8 8
+gc start 9 6
+gc start 10 8
+gc start 11 7
+gc start 12 8
+ii 0
+ii 6
+ii 7
+invalid cc : 7 3
+write least c : 7 3
+write gc start 0 6
+write gc start 1 10
+write gc start 2 1
+write gc start 3 6
+write gc start 4 7
+write gc start 5 6
+write gc start 6 4
+write gc start 7 3
+write gc start 8 8
+write gc start 9 6
+write gc start 10 8
+write gc start 11 7
+write gc start 12 8
+lba : 68
+write least c : 7 3
+write gc start 0 6
+write gc start 1 10
+write gc start 2 2
+write gc start 3 6
+write gc start 4 7
+write gc start 5 6
+write gc start 6 4
+write gc start 7 3
+write gc start 8 8
+write gc start 9 6
+write gc start 10 8
+write gc start 11 7
+write gc start 12 8
+lba : 18
+write least c : 7 3
+write gc start 0 6
+write gc start 1 10
+write gc start 2 3
+write gc start 3 6
+write gc start 4 7
+write gc start 5 6
+write gc start 6 4
+write gc start 7 3
+write gc start 8 8
+write gc start 9 5
+write gc start 10 8
+write gc start 11 7
+write gc start 12 8
+lba : 38
+write least c : 7 3
+write gc start 0 6
+write gc start 1 10
+write gc start 2 4
+write gc start 3 6
+write gc start 4 7
+write gc start 5 6
+write gc start 6 4
+write gc start 7 3
+write gc start 8 8
+write gc start 9 5
+write gc start 10 7
+write gc start 11 7
+write gc start 12 8
+lba : 39
+write least c : 7 3
+write gc start 0 6
+write gc start 1 10
+write gc start 2 5
+write gc start 3 6
+write gc start 4 7
+write gc start 5 6
+write gc start 6 4
+write gc start 7 3
+write gc start 8 8
+write gc start 9 5
+write gc start 10 6
+write gc start 11 7
+write gc start 12 8
+lba : 23
+write least c : 7 3
+write gc start 0 6
+write gc start 1 10
+write gc start 2 6
+write gc start 3 6
+write gc start 4 6
+write gc start 5 6
+write gc start 6 4
+write gc start 7 3
+write gc start 8 8
+write gc start 9 5
+write gc start 10 6
+write gc start 11 7
+write gc start 12 8
+lba : 24
+write least c : 7 3
+write gc start 0 6
+write gc start 1 10
+write gc start 2 7
+write gc start 3 6
+write gc start 4 5
+write gc start 5 6
+write gc start 6 4
+write gc start 7 3
+write gc start 8 8
+write gc start 9 5
+write gc start 10 6
+write gc start 11 7
+write gc start 12 8
+lba : 25
+least c : 7 3
+gc start 0 6
+gc start 1 10
+gc start 2 7
+gc start 3 6
+gc start 4 5
+gc start 5 6
+gc start 6 4
+gc start 7 3
+gc start 8 8
+gc start 9 5
+gc start 10 6
+gc start 11 7
+gc start 12 8
+ii 0
+ii 4
+ii 6
+invalid cc : 6 4
+write least c : 6 4
+write gc start 0 6
+write gc start 1 10
+write gc start 2 10
+write gc start 3 6
+write gc start 4 5
+write gc start 5 5
+write gc start 6 4
+write gc start 7 1
+write gc start 8 8
+write gc start 9 5
+write gc start 10 6
+write gc start 11 7
+write gc start 12 8
+lba : 42
+write least c : 6 4
+write gc start 0 6
+write gc start 1 10
+write gc start 2 10
+write gc start 3 6
+write gc start 4 5
+write gc start 5 5
+write gc start 6 4
+write gc start 7 2
+write gc start 8 7
+write gc start 9 5
+write gc start 10 6
+write gc start 11 7
+write gc start 12 8
+lba : 43
+write least c : 6 4
+write gc start 0 6
+write gc start 1 10
+write gc start 2 10
+write gc start 3 6
+write gc start 4 5
+write gc start 5 5
+write gc start 6 4
+write gc start 7 3
+write gc start 8 7
+write gc start 9 5
+write gc start 10 6
+write gc start 11 7
+write gc start 12 8
+lba : 50
+write least c : 6 4
+write gc start 0 6
+write gc start 1 10
+write gc start 2 10
+write gc start 3 6
+write gc start 4 5
+write gc start 5 5
+write gc start 6 4
+write gc start 7 4
+write gc start 8 7
+write gc start 9 5
+write gc start 10 6
+write gc start 11 6
+write gc start 12 8
+lba : 44
+write least c : 6 4
+write gc start 0 6
+write gc start 1 10
+write gc start 2 10
+write gc start 3 6
+write gc start 4 5
+write gc start 5 5
+write gc start 6 4
+write gc start 7 5
+write gc start 8 7
+write gc start 9 5
+write gc start 10 6
+write gc start 11 6
+write gc start 12 8
+lba : 45
+write least c : 6 4
+write gc start 0 6
+write gc start 1 10
+write gc start 2 10
+write gc start 3 6
+write gc start 4 5
+write gc start 5 5
+write gc start 6 4
+write gc start 7 6
+write gc start 8 7
+write gc start 9 5
+write gc start 10 6
+write gc start 11 6
+write gc start 12 8
+lba : 19
+least c : 6 4
+gc start 0 6
+gc start 1 10
+gc start 2 10
+gc start 3 6
+gc start 4 5
+gc start 5 5
+gc start 6 4
+gc start 7 6
+gc start 8 7
+gc start 9 5
+gc start 10 6
+gc start 11 6
+gc start 12 8
+ii 0
+ii 4
+invalid cc : 4 5
+write least c : 4 5
+write gc start 0 6
+write gc start 1 10
+write gc start 2 10
+write gc start 3 6
+write gc start 4 5
+write gc start 5 5
+write gc start 6 1
+write gc start 7 10
+write gc start 8 7
+write gc start 9 5
+write gc start 10 5
+write gc start 11 6
+write gc start 12 8
+lba : 20
+write least c : 9 4
+write gc start 0 6
+write gc start 1 10
+write gc start 2 10
+write gc start 3 6
+write gc start 4 5
+write gc start 5 5
+write gc start 6 2
+write gc start 7 10
+write gc start 8 7
+write gc start 9 4
+write gc start 10 5
+write gc start 11 6
+write gc start 12 8
+lba : 62
+write least c : 9 4
+write gc start 0 6
+write gc start 1 10
+write gc start 2 10
+write gc start 3 5
+write gc start 4 5
+write gc start 5 5
+write gc start 6 3
+write gc start 7 10
+write gc start 8 7
+write gc start 9 4
+write gc start 10 5
+write gc start 11 6
+write gc start 12 8
+lba : 63
+write least c : 9 4
+write gc start 0 6
+write gc start 1 10
+write gc start 2 10
+write gc start 3 4
+write gc start 4 5
+write gc start 5 5
+write gc start 6 4
+write gc start 7 10
+write gc start 8 7
+write gc start 9 4
+write gc start 10 5
+write gc start 11 6
+write gc start 12 8
+lba : 64
+write least c : 9 4
+write gc start 0 6
+write gc start 1 10
+write gc start 2 10
+write gc start 3 4
+write gc start 4 5
+write gc start 5 4
+write gc start 6 5
+write gc start 7 10
+write gc start 8 7
+write gc start 9 4
+write gc start 10 5
+write gc start 11 6
+write gc start 12 8
+lba : 49
+write least c : 9 4
+write gc start 0 6
+write gc start 1 10
+write gc start 2 10
+write gc start 3 4
+write gc start 4 5
+write gc start 5 4
+write gc start 6 6
+write gc start 7 10
+write gc start 8 7
+write gc start 9 4
+write gc start 10 5
+write gc start 11 6
+write gc start 12 7
+lba : 50
+least c : 9 4
+gc start 0 6
+gc start 1 10
+gc start 2 10
+gc start 3 4
+gc start 4 5
+gc start 5 4
+gc start 6 6
+gc start 7 10
+gc start 8 7
+gc start 9 4
+gc start 10 5
+gc start 11 6
+gc start 12 7
+ii 0
+ii 3
+invalid cc : 3 4
+write least c : 3 4
+write gc start 0 6
+write gc start 1 10
+write gc start 2 10
+write gc start 3 4
+write gc start 4 5
+write gc start 5 4
+write gc start 6 10
+write gc start 7 9
+write gc start 8 7
+write gc start 9 1
+write gc start 10 5
+write gc start 11 6
+write gc start 12 7
+lba : 34
+write least c : 3 4
+write gc start 0 6
+write gc start 1 9
+write gc start 2 10
+write gc start 3 4
+write gc start 4 5
+write gc start 5 4
+write gc start 6 10
+write gc start 7 9
+write gc start 8 7
+write gc start 9 2
+write gc start 10 5
+write gc start 11 6
+write gc start 12 7
+lba : 35
+write least c : 3 4
+write gc start 0 6
+write gc start 1 8
+write gc start 2 10
+write gc start 3 4
+write gc start 4 5
+write gc start 5 4
+write gc start 6 10
+write gc start 7 9
+write gc start 8 7
+write gc start 9 3
+write gc start 10 5
+write gc start 11 6
+write gc start 12 7
+lba : 40
+write least c : 3 4
+write gc start 0 6
+write gc start 1 8
+write gc start 2 10
+write gc start 3 4
+write gc start 4 5
+write gc start 5 4
+write gc start 6 10
+write gc start 7 9
+write gc start 8 7
+write gc start 9 4
+write gc start 10 4
+write gc start 11 6
+write gc start 12 7
+lba : 41
+write least c : 3 4
+write gc start 0 6
+write gc start 1 8
+write gc start 2 10
+write gc start 3 4
+write gc start 4 5
+write gc start 5 4
+write gc start 6 10
+write gc start 7 9
+write gc start 8 6
+write gc start 9 5
+write gc start 10 4
+write gc start 11 6
+write gc start 12 7
+lba : 42
+write least c : 3 4
+write gc start 0 6
+write gc start 1 8
+write gc start 2 10
+write gc start 3 4
+write gc start 4 5
+write gc start 5 4
+write gc start 6 10
+write gc start 7 8
+write gc start 8 6
+write gc start 9 6
+write gc start 10 4
+write gc start 11 6
+write gc start 12 7
+lba : 40
+least c : 3 4
+gc start 0 6
+gc start 1 8
+gc start 2 10
+gc start 3 4
+gc start 4 5
+gc start 5 4
+gc start 6 10
+gc start 7 8
+gc start 8 6
+gc start 9 6
+gc start 10 4
+gc start 11 6
+gc start 12 7
+ii 0
+ii 4
+ii 5
+invalid cc : 5 4
+write least c : 5 4
+write gc start 0 6
+write gc start 1 8
+write gc start 2 10
+write gc start 3 1
+write gc start 4 5
+write gc start 5 4
+write gc start 6 10
+write gc start 7 8
+write gc start 8 6
+write gc start 9 9
+write gc start 10 4
+write gc start 11 6
+write gc start 12 7
+lba : 41
+write least c : 5 4
+write gc start 0 6
+write gc start 1 8
+write gc start 2 10
+write gc start 3 2
+write gc start 4 5
+write gc start 5 4
+write gc start 6 10
+write gc start 7 8
+write gc start 8 6
+write gc start 9 8
+write gc start 10 4
+write gc start 11 6
+write gc start 12 7
+lba : 42
+write least c : 5 4
+write gc start 0 6
+write gc start 1 8
+write gc start 2 10
+write gc start 3 3
+write gc start 4 5
+write gc start 5 4
+write gc start 6 10
+write gc start 7 8
+write gc start 8 6
+write gc start 9 7
+write gc start 10 4
+write gc start 11 6
+write gc start 12 7
+lba : 13
+write least c : 5 4
+write gc start 0 6
+write gc start 1 8
+write gc start 2 10
+write gc start 3 4
+write gc start 4 5
+write gc start 5 4
+write gc start 6 10
+write gc start 7 8
+write gc start 8 6
+write gc start 9 7
+write gc start 10 4
+write gc start 11 6
+write gc start 12 7
+lba : 14
+write least c : 5 4
+write gc start 0 6
+write gc start 1 8
+write gc start 2 10
+write gc start 3 5
+write gc start 4 5
+write gc start 5 4
+write gc start 6 10
+write gc start 7 8
+write gc start 8 6
+write gc start 9 6
+write gc start 10 4
+write gc start 11 6
+write gc start 12 7
+lba : 15
+write least c : 5 4
+write gc start 0 6
+write gc start 1 8
+write gc start 2 10
+write gc start 3 6
+write gc start 4 5
+write gc start 5 4
+write gc start 6 10
+write gc start 7 8
+write gc start 8 6
+write gc start 9 6
+write gc start 10 4
+write gc start 11 6
+write gc start 12 6
+lba : 44
+least c : 5 4
+gc start 0 6
+gc start 1 8
+gc start 2 10
+gc start 3 6
+gc start 4 5
+gc start 5 4
+gc start 6 10
+gc start 7 8
+gc start 8 6
+gc start 9 6
+gc start 10 4
+gc start 11 6
+gc start 12 6
+ii 0
+ii 4
+ii 10
+invalid cc : 10 4
+write least c : 10 4
+write gc start 0 6
+write gc start 1 8
+write gc start 2 10
+write gc start 3 10
+write gc start 4 5
+write gc start 5 1
+write gc start 6 10
+write gc start 7 7
+write gc start 8 6
+write gc start 9 6
+write gc start 10 4
+write gc start 11 6
+write gc start 12 6
+lba : 45
+write least c : 10 4
+write gc start 0 6
+write gc start 1 8
+write gc start 2 10
+write gc start 3 10
+write gc start 4 5
+write gc start 5 2
+write gc start 6 10
+write gc start 7 6
+write gc start 8 6
+write gc start 9 6
+write gc start 10 4
+write gc start 11 6
+write gc start 12 6
+lba : 46
+write least c : 10 4
+write gc start 0 6
+write gc start 1 8
+write gc start 2 10
+write gc start 3 10
+write gc start 4 5
+write gc start 5 3
+write gc start 6 10
+write gc start 7 6
+write gc start 8 6
+write gc start 9 6
+write gc start 10 4
+write gc start 11 5
+write gc start 12 6
+lba : 96
+write least c : 10 4
+write gc start 0 6
+write gc start 1 8
+write gc start 2 10
+write gc start 3 10
+write gc start 4 5
+write gc start 5 4
+write gc start 6 10
+write gc start 7 6
+write gc start 8 6
+write gc start 9 6
+write gc start 10 4
+write gc start 11 4
+write gc start 12 6
+lba : 97
+write least c : 10 4
+write gc start 0 6
+write gc start 1 8
+write gc start 2 10
+write gc start 3 10
+write gc start 4 5
+write gc start 5 5
+write gc start 6 10
+write gc start 7 6
+write gc start 8 6
+write gc start 9 6
+write gc start 10 4
+write gc start 11 4
+write gc start 12 6
+lba : 2
+write least c : 10 4
+write gc start 0 6
+write gc start 1 8
+write gc start 2 10
+write gc start 3 10
+write gc start 4 5
+write gc start 5 6
+write gc start 6 9
+write gc start 7 6
+write gc start 8 6
+write gc start 9 6
+write gc start 10 4
+write gc start 11 4
+write gc start 12 6
+lba : 3
+least c : 10 4
+gc start 0 6
+gc start 1 8
+gc start 2 10
+gc start 3 10
+gc start 4 5
+gc start 5 6
+gc start 6 9
+gc start 7 6
+gc start 8 6
+gc start 9 6
+gc start 10 4
+gc start 11 4
+gc start 12 6
+ii 0
+ii 4
+ii 11
+invalid cc : 11 4
+write least c : 11 4
+write gc start 0 6
+write gc start 1 8
+write gc start 2 10
+write gc start 3 9
+write gc start 4 5
+write gc start 5 10
+write gc start 6 9
+write gc start 7 6
+write gc start 8 6
+write gc start 9 6
+write gc start 10 1
+write gc start 11 4
+write gc start 12 6
+lba : 4
+write least c : 11 4
+write gc start 0 6
+write gc start 1 7
+write gc start 2 10
+write gc start 3 9
+write gc start 4 5
+write gc start 5 10
+write gc start 6 9
+write gc start 7 6
+write gc start 8 6
+write gc start 9 6
+write gc start 10 2
+write gc start 11 4
+write gc start 12 6
+lba : 36
+write least c : 11 4
+write gc start 0 6
+write gc start 1 7
+write gc start 2 10
+write gc start 3 9
+write gc start 4 4
+write gc start 5 10
+write gc start 6 9
+write gc start 7 6
+write gc start 8 6
+write gc start 9 6
+write gc start 10 3
+write gc start 11 4
+write gc start 12 6
+lba : 37
+write least c : 11 4
+write gc start 0 6
+write gc start 1 7
+write gc start 2 10
+write gc start 3 9
+write gc start 4 4
+write gc start 5 10
+write gc start 6 9
+write gc start 7 6
+write gc start 8 6
+write gc start 9 5
+write gc start 10 4
+write gc start 11 4
+write gc start 12 6
+lba : 67
+write least c : 11 4
+write gc start 0 6
+write gc start 1 7
+write gc start 2 9
+write gc start 3 9
+write gc start 4 4
+write gc start 5 10
+write gc start 6 9
+write gc start 7 6
+write gc start 8 6
+write gc start 9 5
+write gc start 10 5
+write gc start 11 4
+write gc start 12 6
+lba : 68
+write least c : 11 4
+write gc start 0 6
+write gc start 1 7
+write gc start 2 8
+write gc start 3 9
+write gc start 4 4
+write gc start 5 10
+write gc start 6 9
+write gc start 7 6
+write gc start 8 6
+write gc start 9 5
+write gc start 10 6
+write gc start 11 4
+write gc start 12 6
+lba : 69
+least c : 11 4
+gc start 0 6
+gc start 1 7
+gc start 2 8
+gc start 3 9
+gc start 4 4
+gc start 5 10
+gc start 6 9
+gc start 7 6
+gc start 8 6
+gc start 9 5
+gc start 10 6
+gc start 11 4
+gc start 12 6
+ii 0
+ii 4
+invalid cc : 4 4
+write least c : 4 4
+write gc start 0 6
+write gc start 1 7
+write gc start 2 8
+write gc start 3 9
+write gc start 4 4
+write gc start 5 10
+write gc start 6 9
+write gc start 7 6
+write gc start 8 6
+write gc start 9 5
+write gc start 10 10
+write gc start 11 1
+write gc start 12 6
+lba : 57
+write least c : 4 4
+write gc start 0 6
+write gc start 1 7
+write gc start 2 8
+write gc start 3 9
+write gc start 4 4
+write gc start 5 9
+write gc start 6 9
+write gc start 7 6
+write gc start 8 6
+write gc start 9 5
+write gc start 10 10
+write gc start 11 2
+write gc start 12 6
+lba : 97
+write least c : 4 4
+write gc start 0 6
+write gc start 1 7
+write gc start 2 8
+write gc start 3 9
+write gc start 4 4
+write gc start 5 8
+write gc start 6 9
+write gc start 7 6
+write gc start 8 6
+write gc start 9 5
+write gc start 10 10
+write gc start 11 3
+write gc start 12 6
+lba : 82
+write least c : 4 4
+write gc start 0 6
+write gc start 1 7
+write gc start 2 8
+write gc start 3 9
+write gc start 4 4
+write gc start 5 8
+write gc start 6 9
+write gc start 7 6
+write gc start 8 5
+write gc start 9 5
+write gc start 10 10
+write gc start 11 4
+write gc start 12 6
+lba : 83
+write least c : 4 4
+write gc start 0 6
+write gc start 1 7
+write gc start 2 8
+write gc start 3 9
+write gc start 4 4
+write gc start 5 8
+write gc start 6 9
+write gc start 7 6
+write gc start 8 4
+write gc start 9 5
+write gc start 10 10
+write gc start 11 5
+write gc start 12 6
+lba : 11
+write least c : 4 4
+write gc start 0 6
+write gc start 1 7
+write gc start 2 8
+write gc start 3 9
+write gc start 4 4
+write gc start 5 8
+write gc start 6 9
+write gc start 7 6
+write gc start 8 4
+write gc start 9 5
+write gc start 10 10
+write gc start 11 6
+write gc start 12 6
+lba : 20
+least c : 4 4
+gc start 0 6
+gc start 1 7
+gc start 2 8
+gc start 3 9
+gc start 4 4
+gc start 5 8
+gc start 6 9
+gc start 7 6
+gc start 8 4
+gc start 9 5
+gc start 10 10
+gc start 11 6
+gc start 12 6
+ii 0
+ii 8
+invalid cc : 8 4
+write least c : 8 4
+write gc start 0 6
+write gc start 1 7
+write gc start 2 8
+write gc start 3 9
+write gc start 4 1
+write gc start 5 8
+write gc start 6 8
+write gc start 7 6
+write gc start 8 4
+write gc start 9 5
+write gc start 10 10
+write gc start 11 10
+write gc start 12 6
+lba : 21
+write least c : 8 3
+write gc start 0 6
+write gc start 1 7
+write gc start 2 8
+write gc start 3 9
+write gc start 4 2
+write gc start 5 8
+write gc start 6 8
+write gc start 7 6
+write gc start 8 3
+write gc start 9 5
+write gc start 10 10
+write gc start 11 10
+write gc start 12 6
+lba : 58
+write least c : 8 3
+write gc start 0 5
+write gc start 1 7
+write gc start 2 8
+write gc start 3 9
+write gc start 4 3
+write gc start 5 8
+write gc start 6 8
+write gc start 7 6
+write gc start 8 3
+write gc start 9 5
+write gc start 10 10
+write gc start 11 10
+write gc start 12 6
+lba : 59
+write least c : 8 3
+write gc start 0 5
+write gc start 1 6
+write gc start 2 8
+write gc start 3 9
+write gc start 4 4
+write gc start 5 8
+write gc start 6 8
+write gc start 7 6
+write gc start 8 3
+write gc start 9 5
+write gc start 10 10
+write gc start 11 10
+write gc start 12 6
+lba : 64
+write least c : 8 3
+write gc start 0 1
+write gc start 1 -1
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 65
+write least c : 8 3
+write gc start 0 2
+write gc start 1 -1
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 66
+write least c : 8 3
+write gc start 0 3
+write gc start 1 -1
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 69
+write least c : 8 3
+write gc start 0 4
+write gc start 1 -1
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 70
+write least c : 8 3
+write gc start 0 5
+write gc start 1 -1
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 70
+write least c : 8 3
+write gc start 0 5
+write gc start 1 -1
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 71
+write least c : 8 3
+write gc start 0 6
+write gc start 1 -1
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 72
+write least c : 8 3
+write gc start 0 7
+write gc start 1 -1
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 92
+write least c : 8 3
+write gc start 0 8
+write gc start 1 -1
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 93
+write least c : 8 3
+write gc start 0 9
+write gc start 1 -1
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 31
+write least c : 8 3
+write gc start 0 9
+write gc start 1 1
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 32
+write least c : 8 3
+write gc start 0 9
+write gc start 1 2
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 33
+write least c : 8 3
+write gc start 0 9
+write gc start 1 3
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 18
+write least c : 8 3
+write gc start 0 9
+write gc start 1 4
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 19
+write least c : 8 3
+write gc start 0 9
+write gc start 1 5
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 88
+write least c : 8 3
+write gc start 0 9
+write gc start 1 6
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 89
+write least c : 8 3
+write gc start 0 9
+write gc start 1 7
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 90
+write least c : 8 3
+write gc start 0 9
+write gc start 1 8
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 26
+write least c : 8 3
+write gc start 0 9
+write gc start 1 9
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 27
+write least c : 8 3
+write gc start 0 9
+write gc start 1 10
+write gc start 2 -1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 40
+write least c : 8 3
+write gc start 0 9
+write gc start 1 10
+write gc start 2 1
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 41
+write least c : 8 3
+write gc start 0 9
+write gc start 1 10
+write gc start 2 2
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 42
+write least c : 8 3
+write gc start 0 9
+write gc start 1 10
+write gc start 2 3
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 95
+write least c : 8 3
+write gc start 0 9
+write gc start 1 10
+write gc start 2 4
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 96
+write least c : 8 3
+write gc start 0 9
+write gc start 1 10
+write gc start 2 5
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 90
+write least c : 8 3
+write gc start 0 9
+write gc start 1 9
+write gc start 2 6
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 91
+write least c : 8 3
+write gc start 0 9
+write gc start 1 9
+write gc start 2 7
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 24
+write least c : 8 3
+write gc start 0 9
+write gc start 1 9
+write gc start 2 8
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 58
+write least c : 8 3
+write gc start 0 9
+write gc start 1 9
+write gc start 2 9
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 59
+write least c : 8 3
+write gc start 0 9
+write gc start 1 9
+write gc start 2 10
+write gc start 3 -1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 79
+write least c : 8 3
+write gc start 0 9
+write gc start 1 9
+write gc start 2 10
+write gc start 3 1
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 80
+write least c : 8 3
+write gc start 0 9
+write gc start 1 9
+write gc start 2 10
+write gc start 3 2
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 81
+write least c : 8 3
+write gc start 0 9
+write gc start 1 9
+write gc start 2 10
+write gc start 3 3
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 82
+write least c : 8 3
+write gc start 0 9
+write gc start 1 9
+write gc start 2 10
+write gc start 3 4
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 62
+write least c : 8 3
+write gc start 0 9
+write gc start 1 9
+write gc start 2 10
+write gc start 3 5
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 63
+write least c : 8 3
+write gc start 0 9
+write gc start 1 9
+write gc start 2 10
+write gc start 3 6
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 83
+write least c : 8 3
+write gc start 0 9
+write gc start 1 9
+write gc start 2 10
+write gc start 3 7
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 84
+write least c : 8 3
+write gc start 0 9
+write gc start 1 9
+write gc start 2 10
+write gc start 3 8
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 13
+write least c : 8 3
+write gc start 0 9
+write gc start 1 9
+write gc start 2 10
+write gc start 3 9
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 61
+write least c : 8 3
+write gc start 0 9
+write gc start 1 9
+write gc start 2 10
+write gc start 3 10
+write gc start 4 -1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 24
+write least c : 8 3
+write gc start 0 9
+write gc start 1 9
+write gc start 2 9
+write gc start 3 10
+write gc start 4 1
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 42
+write least c : 8 3
+write gc start 0 9
+write gc start 1 9
+write gc start 2 8
+write gc start 3 10
+write gc start 4 2
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 43
+write least c : 8 3
+write gc start 0 9
+write gc start 1 9
+write gc start 2 8
+write gc start 3 10
+write gc start 4 3
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 73
+write least c : 8 3
+write gc start 0 9
+write gc start 1 9
+write gc start 2 8
+write gc start 3 10
+write gc start 4 4
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 39
+write least c : 8 3
+write gc start 0 9
+write gc start 1 9
+write gc start 2 8
+write gc start 3 10
+write gc start 4 5
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 40
+write least c : 8 3
+write gc start 0 9
+write gc start 1 9
+write gc start 2 7
+write gc start 3 10
+write gc start 4 6
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 68
+write least c : 8 3
+write gc start 0 9
+write gc start 1 9
+write gc start 2 7
+write gc start 3 10
+write gc start 4 7
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 69
+write least c : 8 3
+write gc start 0 8
+write gc start 1 9
+write gc start 2 7
+write gc start 3 10
+write gc start 4 8
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 70
+write least c : 8 3
+write gc start 0 7
+write gc start 1 9
+write gc start 2 7
+write gc start 3 10
+write gc start 4 9
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 35
+write least c : 8 3
+write gc start 0 7
+write gc start 1 9
+write gc start 2 7
+write gc start 3 10
+write gc start 4 10
+write gc start 5 -1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 36
+write least c : 8 3
+write gc start 0 7
+write gc start 1 9
+write gc start 2 7
+write gc start 3 10
+write gc start 4 10
+write gc start 5 1
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 13
+write least c : 8 3
+write gc start 0 7
+write gc start 1 9
+write gc start 2 7
+write gc start 3 9
+write gc start 4 10
+write gc start 5 2
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 56
+write least c : 8 3
+write gc start 0 7
+write gc start 1 9
+write gc start 2 7
+write gc start 3 9
+write gc start 4 10
+write gc start 5 3
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 57
+write least c : 8 3
+write gc start 0 7
+write gc start 1 9
+write gc start 2 7
+write gc start 3 9
+write gc start 4 10
+write gc start 5 4
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 9
+write least c : 8 3
+write gc start 0 7
+write gc start 1 9
+write gc start 2 7
+write gc start 3 9
+write gc start 4 10
+write gc start 5 5
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 43
+write least c : 8 3
+write gc start 0 7
+write gc start 1 9
+write gc start 2 7
+write gc start 3 9
+write gc start 4 9
+write gc start 5 6
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 44
+write least c : 8 3
+write gc start 0 7
+write gc start 1 9
+write gc start 2 7
+write gc start 3 9
+write gc start 4 9
+write gc start 5 7
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 92
+write least c : 8 3
+write gc start 0 6
+write gc start 1 9
+write gc start 2 7
+write gc start 3 9
+write gc start 4 9
+write gc start 5 8
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 93
+write least c : 8 3
+write gc start 0 5
+write gc start 1 9
+write gc start 2 7
+write gc start 3 9
+write gc start 4 9
+write gc start 5 9
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 94
+write least c : 8 3
+write gc start 0 5
+write gc start 1 9
+write gc start 2 7
+write gc start 3 9
+write gc start 4 9
+write gc start 5 10
+write gc start 6 -1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 26
+write least c : 8 3
+write gc start 0 5
+write gc start 1 8
+write gc start 2 7
+write gc start 3 9
+write gc start 4 9
+write gc start 5 10
+write gc start 6 1
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 27
+write least c : 8 3
+write gc start 0 5
+write gc start 1 7
+write gc start 2 7
+write gc start 3 9
+write gc start 4 9
+write gc start 5 10
+write gc start 6 2
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 32
+write least c : 8 3
+write gc start 0 5
+write gc start 1 6
+write gc start 2 7
+write gc start 3 9
+write gc start 4 9
+write gc start 5 10
+write gc start 6 3
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 33
+write least c : 8 3
+write gc start 0 5
+write gc start 1 5
+write gc start 2 7
+write gc start 3 9
+write gc start 4 9
+write gc start 5 10
+write gc start 6 4
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 25
+write least c : 8 3
+write gc start 0 5
+write gc start 1 5
+write gc start 2 7
+write gc start 3 9
+write gc start 4 9
+write gc start 5 10
+write gc start 6 5
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 35
+write least c : 8 3
+write gc start 0 5
+write gc start 1 5
+write gc start 2 7
+write gc start 3 9
+write gc start 4 8
+write gc start 5 10
+write gc start 6 6
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 23
+write least c : 8 3
+write gc start 0 5
+write gc start 1 5
+write gc start 2 7
+write gc start 3 9
+write gc start 4 8
+write gc start 5 10
+write gc start 6 7
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 24
+write least c : 8 3
+write gc start 0 5
+write gc start 1 5
+write gc start 2 7
+write gc start 3 9
+write gc start 4 7
+write gc start 5 10
+write gc start 6 8
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 78
+write least c : 8 3
+write gc start 0 5
+write gc start 1 5
+write gc start 2 7
+write gc start 3 9
+write gc start 4 7
+write gc start 5 10
+write gc start 6 9
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 79
+write least c : 8 3
+write gc start 0 5
+write gc start 1 5
+write gc start 2 7
+write gc start 3 8
+write gc start 4 7
+write gc start 5 10
+write gc start 6 10
+write gc start 7 -1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 43
+write least c : 8 3
+write gc start 0 5
+write gc start 1 5
+write gc start 2 7
+write gc start 3 8
+write gc start 4 7
+write gc start 5 9
+write gc start 6 10
+write gc start 7 1
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 44
+write least c : 8 3
+write gc start 0 5
+write gc start 1 5
+write gc start 2 7
+write gc start 3 8
+write gc start 4 7
+write gc start 5 8
+write gc start 6 10
+write gc start 7 2
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 45
+write least c : 8 3
+write gc start 0 5
+write gc start 1 5
+write gc start 2 7
+write gc start 3 8
+write gc start 4 7
+write gc start 5 8
+write gc start 6 10
+write gc start 7 3
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 54
+write least c : 8 3
+write gc start 0 5
+write gc start 1 5
+write gc start 2 7
+write gc start 3 8
+write gc start 4 7
+write gc start 5 8
+write gc start 6 10
+write gc start 7 4
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 55
+write least c : 8 3
+write gc start 0 5
+write gc start 1 5
+write gc start 2 7
+write gc start 3 8
+write gc start 4 7
+write gc start 5 8
+write gc start 6 10
+write gc start 7 5
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 90
+write least c : 8 3
+write gc start 0 5
+write gc start 1 5
+write gc start 2 6
+write gc start 3 8
+write gc start 4 7
+write gc start 5 8
+write gc start 6 10
+write gc start 7 6
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 65
+write least c : 8 3
+write gc start 0 4
+write gc start 1 5
+write gc start 2 6
+write gc start 3 8
+write gc start 4 7
+write gc start 5 8
+write gc start 6 10
+write gc start 7 7
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 66
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 6
+write gc start 3 8
+write gc start 4 7
+write gc start 5 8
+write gc start 6 10
+write gc start 7 8
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 4
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 6
+write gc start 3 8
+write gc start 4 7
+write gc start 5 8
+write gc start 6 10
+write gc start 7 9
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 51
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 6
+write gc start 3 8
+write gc start 4 7
+write gc start 5 8
+write gc start 6 10
+write gc start 7 10
+write gc start 8 -1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 0
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 6
+write gc start 3 8
+write gc start 4 7
+write gc start 5 8
+write gc start 6 10
+write gc start 7 10
+write gc start 8 1
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 49
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 6
+write gc start 3 8
+write gc start 4 7
+write gc start 5 8
+write gc start 6 10
+write gc start 7 10
+write gc start 8 2
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 50
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 6
+write gc start 3 8
+write gc start 4 7
+write gc start 5 8
+write gc start 6 10
+write gc start 7 10
+write gc start 8 3
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 51
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 6
+write gc start 3 8
+write gc start 4 7
+write gc start 5 8
+write gc start 6 10
+write gc start 7 9
+write gc start 8 4
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 13
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 6
+write gc start 3 8
+write gc start 4 7
+write gc start 5 7
+write gc start 6 10
+write gc start 7 9
+write gc start 8 5
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 14
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 6
+write gc start 3 8
+write gc start 4 7
+write gc start 5 7
+write gc start 6 10
+write gc start 7 9
+write gc start 8 6
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 15
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 6
+write gc start 3 8
+write gc start 4 7
+write gc start 5 7
+write gc start 6 10
+write gc start 7 9
+write gc start 8 7
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 36
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 6
+write gc start 3 8
+write gc start 4 7
+write gc start 5 6
+write gc start 6 10
+write gc start 7 9
+write gc start 8 8
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 37
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 6
+write gc start 3 8
+write gc start 4 7
+write gc start 5 6
+write gc start 6 10
+write gc start 7 9
+write gc start 8 9
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 59
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 5
+write gc start 3 8
+write gc start 4 7
+write gc start 5 6
+write gc start 6 10
+write gc start 7 9
+write gc start 8 10
+write gc start 9 -1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 60
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 5
+write gc start 3 8
+write gc start 4 7
+write gc start 5 6
+write gc start 6 10
+write gc start 7 9
+write gc start 8 10
+write gc start 9 1
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 67
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 5
+write gc start 3 8
+write gc start 4 7
+write gc start 5 6
+write gc start 6 10
+write gc start 7 9
+write gc start 8 10
+write gc start 9 2
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 68
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 5
+write gc start 3 8
+write gc start 4 6
+write gc start 5 6
+write gc start 6 10
+write gc start 7 9
+write gc start 8 10
+write gc start 9 3
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 47
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 5
+write gc start 3 8
+write gc start 4 6
+write gc start 5 6
+write gc start 6 10
+write gc start 7 9
+write gc start 8 10
+write gc start 9 4
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 49
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 5
+write gc start 3 8
+write gc start 4 6
+write gc start 5 6
+write gc start 6 10
+write gc start 7 9
+write gc start 8 9
+write gc start 9 5
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 50
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 5
+write gc start 3 8
+write gc start 4 6
+write gc start 5 6
+write gc start 6 10
+write gc start 7 9
+write gc start 8 8
+write gc start 9 6
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 51
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 5
+write gc start 3 8
+write gc start 4 6
+write gc start 5 6
+write gc start 6 10
+write gc start 7 9
+write gc start 8 7
+write gc start 9 7
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 35
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 5
+write gc start 3 8
+write gc start 4 6
+write gc start 5 6
+write gc start 6 9
+write gc start 7 9
+write gc start 8 7
+write gc start 9 8
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 47
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 5
+write gc start 3 8
+write gc start 4 6
+write gc start 5 6
+write gc start 6 9
+write gc start 7 9
+write gc start 8 7
+write gc start 9 8
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 48
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 5
+write gc start 3 8
+write gc start 4 6
+write gc start 5 6
+write gc start 6 9
+write gc start 7 9
+write gc start 8 7
+write gc start 9 9
+write gc start 10 -1
+write gc start 11 -1
+write gc start 12 -1
+lba : 49
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 5
+write gc start 3 8
+write gc start 4 6
+write gc start 5 6
+write gc start 6 9
+write gc start 7 9
+write gc start 8 7
+write gc start 9 8
+write gc start 10 1
+write gc start 11 -1
+write gc start 12 -1
+lba : 60
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 5
+write gc start 3 8
+write gc start 4 6
+write gc start 5 6
+write gc start 6 9
+write gc start 7 9
+write gc start 8 7
+write gc start 9 7
+write gc start 10 2
+write gc start 11 -1
+write gc start 12 -1
+lba : 61
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 5
+write gc start 3 7
+write gc start 4 6
+write gc start 5 6
+write gc start 6 9
+write gc start 7 9
+write gc start 8 7
+write gc start 9 7
+write gc start 10 3
+write gc start 11 -1
+write gc start 12 -1
+lba : 61
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 5
+write gc start 3 7
+write gc start 4 6
+write gc start 5 6
+write gc start 6 9
+write gc start 7 9
+write gc start 8 7
+write gc start 9 7
+write gc start 10 3
+write gc start 11 -1
+write gc start 12 -1
+lba : 62
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 5
+write gc start 3 6
+write gc start 4 6
+write gc start 5 6
+write gc start 6 9
+write gc start 7 9
+write gc start 8 7
+write gc start 9 7
+write gc start 10 4
+write gc start 11 -1
+write gc start 12 -1
+lba : 46
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 5
+write gc start 3 6
+write gc start 4 6
+write gc start 5 6
+write gc start 6 9
+write gc start 7 9
+write gc start 8 7
+write gc start 9 7
+write gc start 10 5
+write gc start 11 -1
+write gc start 12 -1
+lba : 47
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 5
+write gc start 3 6
+write gc start 4 6
+write gc start 5 6
+write gc start 6 9
+write gc start 7 9
+write gc start 8 7
+write gc start 9 6
+write gc start 10 6
+write gc start 11 -1
+write gc start 12 -1
+lba : 48
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 5
+write gc start 3 6
+write gc start 4 6
+write gc start 5 6
+write gc start 6 9
+write gc start 7 9
+write gc start 8 7
+write gc start 9 5
+write gc start 10 7
+write gc start 11 -1
+write gc start 12 -1
+lba : 53
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 5
+write gc start 3 6
+write gc start 4 6
+write gc start 5 6
+write gc start 6 9
+write gc start 7 9
+write gc start 8 7
+write gc start 9 5
+write gc start 10 8
+write gc start 11 -1
+write gc start 12 -1
+lba : 54
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 5
+write gc start 3 6
+write gc start 4 6
+write gc start 5 6
+write gc start 6 9
+write gc start 7 8
+write gc start 8 7
+write gc start 9 5
+write gc start 10 9
+write gc start 11 -1
+write gc start 12 -1
+lba : 93
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 5
+write gc start 3 6
+write gc start 4 6
+write gc start 5 5
+write gc start 6 9
+write gc start 7 8
+write gc start 8 7
+write gc start 9 5
+write gc start 10 9
+write gc start 11 1
+write gc start 12 -1
+lba : 94
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 5
+write gc start 3 6
+write gc start 4 6
+write gc start 5 4
+write gc start 6 9
+write gc start 7 8
+write gc start 8 7
+write gc start 9 5
+write gc start 10 9
+write gc start 11 2
+write gc start 12 -1
+lba : 27
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 5
+write gc start 3 6
+write gc start 4 6
+write gc start 5 4
+write gc start 6 8
+write gc start 7 8
+write gc start 8 7
+write gc start 9 5
+write gc start 10 9
+write gc start 11 3
+write gc start 12 -1
+lba : 28
+write least c : 8 3
+write gc start 0 3
+write gc start 1 5
+write gc start 2 5
+write gc start 3 6
+write gc start 4 6
+write gc start 5 4
+write gc start 6 8
+write gc start 7 8
+write gc start 8 7
+write gc start 9 5
+write gc start 10 9
+write gc start 11 4
+write gc start 12 -1
+lba : 89
+write least c : 8 3
+write gc start 0 3
+write gc start 1 4
+write gc start 2 5
+write gc start 3 6
+write gc start 4 6
+write gc start 5 4
+write gc start 6 8
+write gc start 7 8
+write gc start 8 7
+write gc start 9 5
+write gc start 10 9
+write gc start 11 5
+write gc start 12 -1
+lba : 90
+write least c : 8 3
+write gc start 0 3
+write gc start 1 4
+write gc start 2 5
+write gc start 3 6
+write gc start 4 6
+write gc start 5 4
+write gc start 6 8
+write gc start 7 7
+write gc start 8 7
+write gc start 9 5
+write gc start 10 9
+write gc start 11 6
+write gc start 12 -1
+lba : 91
+write least c : 8 3
+write gc start 0 3
+write gc start 1 4
+write gc start 2 4
+write gc start 3 6
+write gc start 4 6
+write gc start 5 4
+write gc start 6 8
+write gc start 7 7
+write gc start 8 7
+write gc start 9 5
+write gc start 10 9
+write gc start 11 7
+write gc start 12 -1
+lba : 54
+write least c : 8 3
+write gc start 0 3
+write gc start 1 4
+write gc start 2 4
+write gc start 3 6
+write gc start 4 6
+write gc start 5 4
+write gc start 6 8
+write gc start 7 7
+write gc start 8 7
+write gc start 9 5
+write gc start 10 8
+write gc start 11 8
+write gc start 12 -1
+lba : 8
+write least c : 8 3
+write gc start 0 3
+write gc start 1 4
+write gc start 2 4
+write gc start 3 6
+write gc start 4 6
+write gc start 5 4
+write gc start 6 8
+write gc start 7 7
+write gc start 8 7
+write gc start 9 5
+write gc start 10 8
+write gc start 11 9
+write gc start 12 -1
+lba : 9
+write least c : 8 3
+write gc start 0 3
+write gc start 1 4
+write gc start 2 4
+write gc start 3 6
+write gc start 4 6
+write gc start 5 3
+write gc start 6 8
+write gc start 7 7
+write gc start 8 7
+write gc start 9 5
+write gc start 10 8
+write gc start 11 10
+write gc start 12 -1
+lba : 89
+write least c : 8 3
+write gc start 0 3
+write gc start 1 4
+write gc start 2 4
+write gc start 3 6
+write gc start 4 6
+write gc start 5 3
+write gc start 6 8
+write gc start 7 7
+write gc start 8 7
+write gc start 9 5
+write gc start 10 8
+write gc start 11 9
+write gc start 12 1
+lba : 90
+write least c : 8 3
+write gc start 0 3
+write gc start 1 4
+write gc start 2 4
+write gc start 3 6
+write gc start 4 6
+write gc start 5 3
+write gc start 6 8
+write gc start 7 7
+write gc start 8 7
+write gc start 9 5
+write gc start 10 8
+write gc start 11 8
+write gc start 12 2
+lba : 91
+write least c : 8 3
+write gc start 0 3
+write gc start 1 4
+write gc start 2 4
+write gc start 3 6
+write gc start 4 6
+write gc start 5 3
+write gc start 6 8
+write gc start 7 7
+write gc start 8 7
+write gc start 9 5
+write gc start 10 8
+write gc start 11 7
+write gc start 12 3
+lba : 43
+write least c : 8 3
+write gc start 0 3
+write gc start 1 4
+write gc start 2 4
+write gc start 3 6
+write gc start 4 6
+write gc start 5 3
+write gc start 6 8
+write gc start 7 6
+write gc start 8 7
+write gc start 9 5
+write gc start 10 8
+write gc start 11 7
+write gc start 12 4
+lba : 44
+write least c : 8 3
+write gc start 0 3
+write gc start 1 4
+write gc start 2 4
+write gc start 3 6
+write gc start 4 6
+write gc start 5 3
+write gc start 6 8
+write gc start 7 5
+write gc start 8 7
+write gc start 9 5
+write gc start 10 8
+write gc start 11 7
+write gc start 12 5
+lba : 45
+write least c : 8 3
+write gc start 0 3
+write gc start 1 4
+write gc start 2 4
+write gc start 3 6
+write gc start 4 6
+write gc start 5 3
+write gc start 6 8
+write gc start 7 4
+write gc start 8 7
+write gc start 9 5
+write gc start 10 8
+write gc start 11 7
+write gc start 12 6
+lba : 26
+write least c : 8 3
+write gc start 0 3
+write gc start 1 4
+write gc start 2 4
+write gc start 3 6
+write gc start 4 6
+write gc start 5 3
+write gc start 6 7
+write gc start 7 4
+write gc start 8 7
+write gc start 9 5
+write gc start 10 8
+write gc start 11 7
+write gc start 12 7
+lba : 4
+least c : 8 3
+gc start 0 3
+gc start 1 4
+gc start 2 4
+gc start 3 6
+gc start 4 6
+gc start 5 3
+gc start 6 7
+gc start 7 4
+gc start 8 7
+gc start 9 5
+gc start 10 8
+gc start 11 7
+gc start 12 7
+ii 0
+ii 1
+ii 5
+invalid cc : 5 3
+write least c : 5 3
+write gc start 0 7
+write gc start 1 4
+write gc start 2 4
+write gc start 3 6
+write gc start 4 6
+write gc start 5 3
+write gc start 6 7
+write gc start 7 3
+write gc start 8 1
+write gc start 9 5
+write gc start 10 8
+write gc start 11 7
+write gc start 12 10
+lba : 5
+write least c : 5 3
+write gc start 0 7
+write gc start 1 4
+write gc start 2 4
+write gc start 3 6
+write gc start 4 6
+write gc start 5 3
+write gc start 6 7
+write gc start 7 3
+write gc start 8 2
+write gc start 9 5
+write gc start 10 8
+write gc start 11 7
+write gc start 12 10
+lba : 6
+write least c : 5 3
+write gc start 0 7
+write gc start 1 4
+write gc start 2 4
+write gc start 3 6
+write gc start 4 6
+write gc start 5 3
+write gc start 6 7
+write gc start 7 3
+write gc start 8 3
+write gc start 9 5
+write gc start 10 8
+write gc start 11 7
+write gc start 12 10
+lba : 47
+write least c : 5 3
+write gc start 0 7
+write gc start 1 4
+write gc start 2 4
+write gc start 3 6
+write gc start 4 6
+write gc start 5 3
+write gc start 6 7
+write gc start 7 3
+write gc start 8 4
+write gc start 9 5
+write gc start 10 7
+write gc start 11 7
+write gc start 12 10
+lba : 48
+write least c : 5 3
+write gc start 0 7
+write gc start 1 4
+write gc start 2 4
+write gc start 3 6
+write gc start 4 6
+write gc start 5 3
+write gc start 6 7
+write gc start 7 3
+write gc start 8 5
+write gc start 9 5
+write gc start 10 6
+write gc start 11 7
+write gc start 12 10
+lba : 15
+write least c : 5 3
+write gc start 0 6
+write gc start 1 4
+write gc start 2 4
+write gc start 3 6
+write gc start 4 6
+write gc start 5 3
+write gc start 6 7
+write gc start 7 3
+write gc start 8 6
+write gc start 9 5
+write gc start 10 6
+write gc start 11 7
+write gc start 12 10
+lba : 16
+write least c : 5 3
+write gc start 0 6
+write gc start 1 4
+write gc start 2 4
+write gc start 3 6
+write gc start 4 6
+write gc start 5 3
+write gc start 6 7
+write gc start 7 3
+write gc start 8 7
+write gc start 9 5
+write gc start 10 6
+write gc start 11 7
+write gc start 12 10
+lba : 90
+least c : 5 3
+gc start 0 6
+gc start 1 4
+gc start 2 4
+gc start 3 6
+gc start 4 6
+gc start 5 3
+gc start 6 7
+gc start 7 3
+gc start 8 7
+gc start 9 5
+gc start 10 6
+gc start 11 7
+gc start 12 10
+ii 0
+ii 1
+ii 7
+invalid cc : 7 3
+write least c : 7 3
+write gc start 0 6
+write gc start 1 4
+write gc start 2 4
+write gc start 3 6
+write gc start 4 6
+write gc start 5 1
+write gc start 6 7
+write gc start 7 3
+write gc start 8 10
+write gc start 9 5
+write gc start 10 6
+write gc start 11 7
+write gc start 12 9
+lba : 91
+write least c : 7 3
+write gc start 0 6
+write gc start 1 4
+write gc start 2 4
+write gc start 3 6
+write gc start 4 6
+write gc start 5 2
+write gc start 6 7
+write gc start 7 3
+write gc start 8 10
+write gc start 9 5
+write gc start 10 6
+write gc start 11 7
+write gc start 12 8
+lba : 80
+write least c : 7 3
+write gc start 0 6
+write gc start 1 4
+write gc start 2 4
+write gc start 3 5
+write gc start 4 6
+write gc start 5 3
+write gc start 6 7
+write gc start 7 3
+write gc start 8 10
+write gc start 9 5
+write gc start 10 6
+write gc start 11 7
+write gc start 12 8
+lba : 81
+write least c : 7 3
+write gc start 0 6
+write gc start 1 4
+write gc start 2 4
+write gc start 3 4
+write gc start 4 6
+write gc start 5 4
+write gc start 6 7
+write gc start 7 3
+write gc start 8 10
+write gc start 9 5
+write gc start 10 6
+write gc start 11 7
+write gc start 12 8
+lba : 95
+write least c : 7 3
+write gc start 0 6
+write gc start 1 4
+write gc start 2 3
+write gc start 3 4
+write gc start 4 6
+write gc start 5 5
+write gc start 6 7
+write gc start 7 3
+write gc start 8 10
+write gc start 9 5
+write gc start 10 6
+write gc start 11 7
+write gc start 12 8
+lba : 96
+write least c : 2 2
+write gc start 0 6
+write gc start 1 4
+write gc start 2 2
+write gc start 3 4
+write gc start 4 6
+write gc start 5 6
+write gc start 6 7
+write gc start 7 3
+write gc start 8 10
+write gc start 9 5
+write gc start 10 6
+write gc start 11 7
+write gc start 12 8
+lba : 97
+write least c : 2 2
+write gc start 0 6
+write gc start 1 4
+write gc start 2 2
+write gc start 3 4
+write gc start 4 6
+write gc start 5 7
+write gc start 6 7
+write gc start 7 3
+write gc start 8 10
+write gc start 9 5
+write gc start 10 6
+write gc start 11 7
+write gc start 12 8
+lba : 83
+write least c : 2 2
+write gc start 0 6
+write gc start 1 4
+write gc start 2 2
+write gc start 3 3
+write gc start 4 6
+write gc start 5 8
+write gc start 6 7
+write gc start 7 3
+write gc start 8 10
+write gc start 9 5
+write gc start 10 6
+write gc start 11 7
+write gc start 12 8
+lba : 68
+least c : 2 2
+gc start 0 6
+gc start 1 4
+gc start 2 2
+gc start 3 3
+gc start 4 6
+gc start 5 8
+gc start 6 7
+gc start 7 3
+gc start 8 10
+gc start 9 5
+gc start 10 6
+gc start 11 7
+gc start 12 8
+ii 0
+ii 1
+ii 3
+invalid cc : 3 3
+write least c : 3 3
+write gc start 0 6
+write gc start 1 4
+write gc start 2 1
+write gc start 3 3
+write gc start 4 6
+write gc start 5 10
+write gc start 6 7
+write gc start 7 3
+write gc start 8 10
+write gc start 9 4
+write gc start 10 6
+write gc start 11 7
+write gc start 12 8
+lba : 69
+write least c : 3 3
+write gc start 0 6
+write gc start 1 4
+write gc start 2 2
+write gc start 3 3
+write gc start 4 5
+write gc start 5 10
+write gc start 6 7
+write gc start 7 3
+write gc start 8 10
+write gc start 9 4
+write gc start 10 6
+write gc start 11 7
+write gc start 12 8
+lba : 70
+write least c : 3 3
+write gc start 0 6
+write gc start 1 4
+write gc start 2 3
+write gc start 3 3
+write gc start 4 4
+write gc start 5 10
+write gc start 6 7
+write gc start 7 3
+write gc start 8 10
+write gc start 9 4
+write gc start 10 6
+write gc start 11 7
+write gc start 12 8
+lba : 87
+write least c : 3 3
+write gc start 0 6
+write gc start 1 4
+write gc start 2 4
+write gc start 3 3
+write gc start 4 4
+write gc start 5 10
+write gc start 6 7
+write gc start 7 3
+write gc start 8 10
+write gc start 9 4
+write gc start 10 6
+write gc start 11 7
+write gc start 12 8
+lba : 88
+write least c : 3 3
+write gc start 0 6
+write gc start 1 3
+write gc start 2 5
+write gc start 3 3
+write gc start 4 4
+write gc start 5 10
+write gc start 6 7
+write gc start 7 3
+write gc start 8 10
+write gc start 9 4
+write gc start 10 6
+write gc start 11 7
+write gc start 12 8
+lba : 46
+write least c : 3 3
+write gc start 0 6
+write gc start 1 3
+write gc start 2 6
+write gc start 3 3
+write gc start 4 4
+write gc start 5 10
+write gc start 6 7
+write gc start 7 3
+write gc start 8 10
+write gc start 9 4
+write gc start 10 5
+write gc start 11 7
+write gc start 12 8
+lba : 47
+write least c : 3 3
+write gc start 0 6
+write gc start 1 3
+write gc start 2 7
+write gc start 3 3
+write gc start 4 4
+write gc start 5 10
+write gc start 6 7
+write gc start 7 3
+write gc start 8 9
+write gc start 9 4
+write gc start 10 5
+write gc start 11 7
+write gc start 12 8
+lba : 94
+least c : 3 3
+gc start 0 6
+gc start 1 3
+gc start 2 7
+gc start 3 3
+gc start 4 4
+gc start 5 10
+gc start 6 7
+gc start 7 3
+gc start 8 9
+gc start 9 4
+gc start 10 5
+gc start 11 7
+gc start 12 8
+ii 0
+ii 1
+invalid cc : 1 3
+write least c : 1 3
+write gc start 0 6
+write gc start 1 3
+write gc start 2 10
+write gc start 3 1
+write gc start 4 4
+write gc start 5 10
+write gc start 6 7
+write gc start 7 3
+write gc start 8 9
+write gc start 9 4
+write gc start 10 5
+write gc start 11 6
+write gc start 12 8
+lba : 95
+write least c : 1 3
+write gc start 0 6
+write gc start 1 3
+write gc start 2 10
+write gc start 3 2
+write gc start 4 4
+write gc start 5 9
+write gc start 6 7
+write gc start 7 3
+write gc start 8 9
+write gc start 9 4
+write gc start 10 5
+write gc start 11 6
+write gc start 12 8
+lba : 53
+write least c : 1 3
+write gc start 0 6
+write gc start 1 3
+write gc start 2 10
+write gc start 3 3
+write gc start 4 4
+write gc start 5 9
+write gc start 6 7
+write gc start 7 3
+write gc start 8 9
+write gc start 9 4
+write gc start 10 4
+write gc start 11 6
+write gc start 12 8
+lba : 54
+write least c : 1 3
+write gc start 0 6
+write gc start 1 3
+write gc start 2 10
+write gc start 3 4
+write gc start 4 4
+write gc start 5 9
+write gc start 6 7
+write gc start 7 3
+write gc start 8 9
+write gc start 9 4
+write gc start 10 4
+write gc start 11 5
+write gc start 12 8
+lba : 55
+write least c : 7 2
+write gc start 0 6
+write gc start 1 3
+write gc start 2 10
+write gc start 3 5
+write gc start 4 4
+write gc start 5 9
+write gc start 6 7
+write gc start 7 2
+write gc start 8 9
+write gc start 9 4
+write gc start 10 4
+write gc start 11 5
+write gc start 12 8
+lba : 90
+write least c : 7 2
+write gc start 0 6
+write gc start 1 3
+write gc start 2 10
+write gc start 3 6
+write gc start 4 4
+write gc start 5 8
+write gc start 6 7
+write gc start 7 2
+write gc start 8 9
+write gc start 9 4
+write gc start 10 4
+write gc start 11 5
+write gc start 12 8
+lba : 91
+write least c : 7 2
+write gc start 0 6
+write gc start 1 3
+write gc start 2 10
+write gc start 3 7
+write gc start 4 4
+write gc start 5 7
+write gc start 6 7
+write gc start 7 2
+write gc start 8 9
+write gc start 9 4
+write gc start 10 4
+write gc start 11 5
+write gc start 12 8
+lba : 92
+write least c : 7 2
+write gc start 0 6
+write gc start 1 3
+write gc start 2 10
+write gc start 3 8
+write gc start 4 4
+write gc start 5 7
+write gc start 6 7
+write gc start 7 2
+write gc start 8 8
+write gc start 9 4
+write gc start 10 4
+write gc start 11 5
+write gc start 12 8
+lba : 69
+least c : 7 2
+gc start 0 6
+gc start 1 3
+gc start 2 10
+gc start 3 8
+gc start 4 4
+gc start 5 7
+gc start 6 7
+gc start 7 2
+gc start 8 8
+gc start 9 4
+gc start 10 4
+gc start 11 5
+gc start 12 8
+ii 0
+ii 1
+invalid cc : 1 3
+write least c : 1 3
+write gc start 0 6
+write gc start 1 3
+write gc start 2 9
+write gc start 3 10
+write gc start 4 4
+write gc start 5 7
+write gc start 6 7
+write gc start 7 1
+write gc start 8 8
+write gc start 9 4
+write gc start 10 4
+write gc start 11 5
+write gc start 12 8
+lba : 70
+write least c : 1 3
+write gc start 0 6
+write gc start 1 3
+write gc start 2 8
+write gc start 3 10
+write gc start 4 4
+write gc start 5 7
+write gc start 6 7
+write gc start 7 2
+write gc start 8 8
+write gc start 9 4
+write gc start 10 4
+write gc start 11 5
+write gc start 12 8
+lba : 71
+write least c : 1 3
+write gc start 0 5
+write gc start 1 3
+write gc start 2 8
+write gc start 3 10
+write gc start 4 4
+write gc start 5 7
+write gc start 6 7
+write gc start 7 3
+write gc start 8 8
+write gc start 9 4
+write gc start 10 4
+write gc start 11 5
+write gc start 12 8
+lba : 38
+write least c : 1 3
+write gc start 0 5
+write gc start 1 3
+write gc start 2 8
+write gc start 3 10
+write gc start 4 4
+write gc start 5 7
+write gc start 6 7
+write gc start 7 4
+write gc start 8 8
+write gc start 9 4
+write gc start 10 4
+write gc start 11 5
+write gc start 12 8
+lba : 39
+write least c : 1 3
+write gc start 0 5
+write gc start 1 3
+write gc start 2 8
+write gc start 3 10
+write gc start 4 3
+write gc start 5 7
+write gc start 6 7
+write gc start 7 5
+write gc start 8 8
+write gc start 9 4
+write gc start 10 4
+write gc start 11 5
+write gc start 12 8
+lba : 61
+write least c : 1 3
+write gc start 0 5
+write gc start 1 3
+write gc start 2 8
+write gc start 3 10
+write gc start 4 3
+write gc start 5 7
+write gc start 6 7
+write gc start 7 6
+write gc start 8 8
+write gc start 9 4
+write gc start 10 3
+write gc start 11 5
+write gc start 12 8
+lba : 62
+write least c : 10 2
+write gc start 0 5
+write gc start 1 3
+write gc start 2 8
+write gc start 3 10
+write gc start 4 3
+write gc start 5 7
+write gc start 6 7
+write gc start 7 7
+write gc start 8 8
+write gc start 9 4
+write gc start 10 2
+write gc start 11 5
+write gc start 12 8
+lba : 63
+write least c : 10 2
+write gc start 0 5
+write gc start 1 3
+write gc start 2 7
+write gc start 3 10
+write gc start 4 3
+write gc start 5 7
+write gc start 6 7
+write gc start 7 8
+write gc start 8 8
+write gc start 9 4
+write gc start 10 2
+write gc start 11 5
+write gc start 12 8
+lba : 73
+least c : 10 2
+gc start 0 5
+gc start 1 3
+gc start 2 7
+gc start 3 10
+gc start 4 3
+gc start 5 7
+gc start 6 7
+gc start 7 8
+gc start 8 8
+gc start 9 4
+gc start 10 2
+gc start 11 5
+gc start 12 8
+ii 0
+ii 1
+invalid cc : 1 3
+write least c : 4 2
+write gc start 0 5
+write gc start 1 3
+write gc start 2 7
+write gc start 3 10
+write gc start 4 2
+write gc start 5 7
+write gc start 6 7
+write gc start 7 10
+write gc start 8 8
+write gc start 9 4
+write gc start 10 1
+write gc start 11 5
+write gc start 12 8
+lba : 74
+write least c : 4 2
+write gc start 0 5
+write gc start 1 3
+write gc start 2 7
+write gc start 3 10
+write gc start 4 2
+write gc start 5 7
+write gc start 6 7
+write gc start 7 10
+write gc start 8 8
+write gc start 9 4
+write gc start 10 2
+write gc start 11 5
+write gc start 12 8
+lba : 15
+write least c : 4 2
+write gc start 0 5
+write gc start 1 3
+write gc start 2 7
+write gc start 3 10
+write gc start 4 2
+write gc start 5 7
+write gc start 6 7
+write gc start 7 10
+write gc start 8 7
+write gc start 9 4
+write gc start 10 3
+write gc start 11 5
+write gc start 12 8
+lba : 39
+write least c : 4 2
+write gc start 0 5
+write gc start 1 3
+write gc start 2 7
+write gc start 3 10
+write gc start 4 2
+write gc start 5 7
+write gc start 6 7
+write gc start 7 9
+write gc start 8 7
+write gc start 9 4
+write gc start 10 4
+write gc start 11 5
+write gc start 12 8
+lba : 40
+write least c : 4 1
+write gc start 0 5
+write gc start 1 3
+write gc start 2 7
+write gc start 3 10
+write gc start 4 1
+write gc start 5 7
+write gc start 6 7
+write gc start 7 9
+write gc start 8 7
+write gc start 9 4
+write gc start 10 5
+write gc start 11 5
+write gc start 12 8
+lba : 1
+write least c : 4 1
+write gc start 0 5
+write gc start 1 3
+write gc start 2 7
+write gc start 3 10
+write gc start 4 1
+write gc start 5 7
+write gc start 6 7
+write gc start 7 9
+write gc start 8 7
+write gc start 9 4
+write gc start 10 6
+write gc start 11 5
+write gc start 12 8
+lba : 2
+write least c : 4 1
+write gc start 0 5
+write gc start 1 3
+write gc start 2 7
+write gc start 3 10
+write gc start 4 1
+write gc start 5 7
+write gc start 6 7
+write gc start 7 9
+write gc start 8 7
+write gc start 9 4
+write gc start 10 7
+write gc start 11 5
+write gc start 12 8
+lba : 3
+write least c : 4 1
+write gc start 0 5
+write gc start 1 3
+write gc start 2 7
+write gc start 3 10
+write gc start 4 1
+write gc start 5 7
+write gc start 6 7
+write gc start 7 9
+write gc start 8 7
+write gc start 9 4
+write gc start 10 8
+write gc start 11 5
+write gc start 12 8
+lba : 73
+write least c : 4 1
+write gc start 0 5
+write gc start 1 3
+write gc start 2 7
+write gc start 3 10
+write gc start 4 1
+write gc start 5 7
+write gc start 6 7
+write gc start 7 9
+write gc start 8 7
+write gc start 9 4
+write gc start 10 8
+write gc start 11 5
+write gc start 12 8
+lba : 74
+least c : 4 1
+gc start 0 5
+gc start 1 3
+gc start 2 7
+gc start 3 10
+gc start 4 1
+gc start 5 7
+gc start 6 7
+gc start 7 9
+gc start 8 7
+gc start 9 4
+gc start 10 8
+gc start 11 5
+gc start 12 8
+ii 0
+ii 1
+invalid cc : 1 3
+write least c : 1 3
+write gc start 0 5
+write gc start 1 3
+write gc start 2 7
+write gc start 3 10
+write gc start 4 1
+write gc start 5 7
+write gc start 6 7
+write gc start 7 9
+write gc start 8 7
+write gc start 9 4
+write gc start 10 8
+write gc start 11 5
+write gc start 12 8
+lba : 30
+write least c : 1 3
+write gc start 0 5
+write gc start 1 3
+write gc start 2 7
+write gc start 3 10
+write gc start 4 2
+write gc start 5 7
+write gc start 6 7
+write gc start 7 9
+write gc start 8 7
+write gc start 9 4
+write gc start 10 8
+write gc start 11 5
+write gc start 12 8
+lba : 31
+write least c : 1 2
+write gc start 0 5
+write gc start 1 2
+write gc start 2 7
+write gc start 3 10
+write gc start 4 3
+write gc start 5 7
+write gc start 6 7
+write gc start 7 9
+write gc start 8 7
+write gc start 9 4
+write gc start 10 8
+write gc start 11 5
+write gc start 12 8
+lba : 93
+write least c : 1 2
+write gc start 0 5
+write gc start 1 2
+write gc start 2 7
+write gc start 3 10
+write gc start 4 4
+write gc start 5 7
+write gc start 6 7
+write gc start 7 9
+write gc start 8 7
+write gc start 9 4
+write gc start 10 8
+write gc start 11 4
+write gc start 12 8
+lba : 37
+write least c : 1 2
+write gc start 0 4
+write gc start 1 2
+write gc start 2 7
+write gc start 3 10
+write gc start 4 5
+write gc start 5 7
+write gc start 6 7
+write gc start 7 9
+write gc start 8 7
+write gc start 9 4
+write gc start 10 8
+write gc start 11 4
+write gc start 12 8
+lba : 50
+write least c : 1 2
+write gc start 0 4
+write gc start 1 2
+write gc start 2 7
+write gc start 3 10
+write gc start 4 6
+write gc start 5 7
+write gc start 6 7
+write gc start 7 9
+write gc start 8 7
+write gc start 9 3
+write gc start 10 8
+write gc start 11 4
+write gc start 12 8
+lba : 51
+write least c : 1 2
+write gc start 0 4
+write gc start 1 2
+write gc start 2 7
+write gc start 3 10
+write gc start 4 7
+write gc start 5 7
+write gc start 6 7
+write gc start 7 9
+write gc start 8 7
+write gc start 9 2
+write gc start 10 8
+write gc start 11 4
+write gc start 12 8
+lba : 52
+write least c : 1 2
+write gc start 0 4
+write gc start 1 2
+write gc start 2 7
+write gc start 3 10
+write gc start 4 8
+write gc start 5 7
+write gc start 6 7
+write gc start 7 9
+write gc start 8 7
+write gc start 9 2
+write gc start 10 8
+write gc start 11 4
+write gc start 12 8
+lba : 67
+write least c : 9 1
+write gc start 0 4
+write gc start 1 2
+write gc start 2 7
+write gc start 3 10
+write gc start 4 9
+write gc start 5 7
+write gc start 6 7
+write gc start 7 9
+write gc start 8 7
+write gc start 9 1
+write gc start 10 8
+write gc start 11 4
+write gc start 12 8
+lba : 24
+least c : 9 1
+gc start 0 4
+gc start 1 2
+gc start 2 7
+gc start 3 10
+gc start 4 9
+gc start 5 7
+gc start 6 7
+gc start 7 9
+gc start 8 7
+gc start 9 1
+gc start 10 8
+gc start 11 4
+gc start 12 8
+ii 0
+ii 1
+invalid cc : 1 2
+write least c : 1 2
+write gc start 0 4
+write gc start 1 2
+write gc start 2 7
+write gc start 3 10
+write gc start 4 10
+write gc start 5 7
+write gc start 6 6
+write gc start 7 9
+write gc start 8 7
+write gc start 9 1
+write gc start 10 8
+write gc start 11 4
+write gc start 12 8
+lba : 25
+write least c : 1 2
+write gc start 0 4
+write gc start 1 2
+write gc start 2 7
+write gc start 3 10
+write gc start 4 10
+write gc start 5 7
+write gc start 6 5
+write gc start 7 9
+write gc start 8 7
+write gc start 9 2
+write gc start 10 8
+write gc start 11 4
+write gc start 12 8
+lba : 28
+write least c : 1 2
+write gc start 0 4
+write gc start 1 2
+write gc start 2 7
+write gc start 3 10
+write gc start 4 10
+write gc start 5 7
+write gc start 6 5
+write gc start 7 9
+write gc start 8 7
+write gc start 9 3
+write gc start 10 8
+write gc start 11 3
+write gc start 12 8
+lba : 29
+write least c : 1 2
+write gc start 0 4
+write gc start 1 2
+write gc start 2 7
+write gc start 3 10
+write gc start 4 10
+write gc start 5 7
+write gc start 6 5
+write gc start 7 9
+write gc start 8 7
+write gc start 9 4
+write gc start 10 8
+write gc start 11 3
+write gc start 12 8
+lba : 35
+write least c : 1 2
+write gc start 0 4
+write gc start 1 2
+write gc start 2 7
+write gc start 3 10
+write gc start 4 9
+write gc start 5 7
+write gc start 6 5
+write gc start 7 9
+write gc start 8 7
+write gc start 9 5
+write gc start 10 8
+write gc start 11 3
+write gc start 12 8
+lba : 41
+write least c : 1 2
+write gc start 0 4
+write gc start 1 2
+write gc start 2 7
+write gc start 3 10
+write gc start 4 9
+write gc start 5 6
+write gc start 6 5
+write gc start 7 9
+write gc start 8 7
+write gc start 9 6
+write gc start 10 8
+write gc start 11 3
+write gc start 12 8
+lba : 81
+write least c : 1 2
+write gc start 0 4
+write gc start 1 2
+write gc start 2 7
+write gc start 3 10
+write gc start 4 9
+write gc start 5 5
+write gc start 6 5
+write gc start 7 9
+write gc start 8 7
+write gc start 9 7
+write gc start 10 8
+write gc start 11 3
+write gc start 12 8
+lba : 82
+write least c : 1 2
+write gc start 0 4
+write gc start 1 2
+write gc start 2 6
+write gc start 3 10
+write gc start 4 9
+write gc start 5 5
+write gc start 6 5
+write gc start 7 9
+write gc start 8 7
+write gc start 9 8
+write gc start 10 8
+write gc start 11 3
+write gc start 12 8
+lba : 50
+least c : 1 2
+gc start 0 4
+gc start 1 2
+gc start 2 6
+gc start 3 10
+gc start 4 9
+gc start 5 5
+gc start 6 5
+gc start 7 9
+gc start 8 7
+gc start 9 8
+gc start 10 8
+gc start 11 3
+gc start 12 8
+ii 0
+ii 11
+invalid cc : 11 3
+write least c : 11 3
+write gc start 0 4
+write gc start 1 1
+write gc start 2 6
+write gc start 3 10
+write gc start 4 8
+write gc start 5 5
+write gc start 6 5
+write gc start 7 9
+write gc start 8 7
+write gc start 9 10
+write gc start 10 8
+write gc start 11 3
+write gc start 12 8
+lba : 51
+write least c : 11 3
+write gc start 0 4
+write gc start 1 2
+write gc start 2 6
+write gc start 3 10
+write gc start 4 7
+write gc start 5 5
+write gc start 6 5
+write gc start 7 9
+write gc start 8 7
+write gc start 9 10
+write gc start 10 8
+write gc start 11 3
+write gc start 12 8
+lba : 0
+write least c : 11 3
+write gc start 0 4
+write gc start 1 3
+write gc start 2 6
+write gc start 3 10
+write gc start 4 7
+write gc start 5 5
+write gc start 6 5
+write gc start 7 9
+write gc start 8 7
+write gc start 9 10
+write gc start 10 8
+write gc start 11 3
+write gc start 12 7
+lba : 1
+write least c : 11 3
+write gc start 0 4
+write gc start 1 4
+write gc start 2 6
+write gc start 3 10
+write gc start 4 7
+write gc start 5 5
+write gc start 6 5
+write gc start 7 9
+write gc start 8 7
+write gc start 9 10
+write gc start 10 7
+write gc start 11 3
+write gc start 12 7
+lba : 2
+write least c : 11 3
+write gc start 0 4
+write gc start 1 5
+write gc start 2 6
+write gc start 3 10
+write gc start 4 7
+write gc start 5 5
+write gc start 6 5
+write gc start 7 9
+write gc start 8 7
+write gc start 9 10
+write gc start 10 6
+write gc start 11 3
+write gc start 12 7
+lba : 51
+write least c : 11 3
+write gc start 0 4
+write gc start 1 5
+write gc start 2 6
+write gc start 3 10
+write gc start 4 7
+write gc start 5 5
+write gc start 6 5
+write gc start 7 9
+write gc start 8 7
+write gc start 9 10
+write gc start 10 6
+write gc start 11 3
+write gc start 12 7
+lba : 52
+write least c : 11 3
+write gc start 0 4
+write gc start 1 6
+write gc start 2 6
+write gc start 3 10
+write gc start 4 6
+write gc start 5 5
+write gc start 6 5
+write gc start 7 9
+write gc start 8 7
+write gc start 9 10
+write gc start 10 6
+write gc start 11 3
+write gc start 12 7
+lba : 54
+least c : 11 3
+gc start 0 4
+gc start 1 6
+gc start 2 6
+gc start 3 10
+gc start 4 6
+gc start 5 5
+gc start 6 5
+gc start 7 9
+gc start 8 7
+gc start 9 10
+gc start 10 6
+gc start 11 3
+gc start 12 7
+ii 0
+invalid cc : 0 4
+write least c : 0 4
+write gc start 0 4
+write gc start 1 9
+write gc start 2 6
+write gc start 3 9
+write gc start 4 6
+write gc start 5 5
+write gc start 6 5
+write gc start 7 9
+write gc start 8 7
+write gc start 9 10
+write gc start 10 6
+write gc start 11 1
+write gc start 12 7
+lba : 55
+write least c : 0 4
+write gc start 0 4
+write gc start 1 9
+write gc start 2 6
+write gc start 3 8
+write gc start 4 6
+write gc start 5 5
+write gc start 6 5
+write gc start 7 9
+write gc start 8 7
+write gc start 9 10
+write gc start 10 6
+write gc start 11 2
+write gc start 12 7
