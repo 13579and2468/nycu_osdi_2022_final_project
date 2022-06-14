@@ -80,11 +80,12 @@ logical address 存lba (page idx)
 
 ### 4) evaluation
 
-原來的 test1, test2 皆沒有GC
+原來的 test1, test2 皆沒有WA
 
-我另外加了3個testcase, 分別是兩個測試GC, 一個測試unalign write
+我另外加了4個testcase, 分別是兩個測試GC, 一個測試unalign write, 一個大型隨機測試
 
 ![](https://i.imgur.com/2ElaPCq.png)
+(每次都重起FUSE)
 
 ### 5) FUSE 簡介 (wiki)
 
